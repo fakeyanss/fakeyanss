@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div style="background-image: url('https://source.unsplash.com/user/yanss/likes/');">
-  <p>Yet another prosibility</p>
-</div>
+<img src='https://source.unsplash.com/user/yanss/likes/' htight='200' />
 
 
 - 🔭 I’m currently working on @Baidu ACG
