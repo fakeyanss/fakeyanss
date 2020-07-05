@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on @Baidu ACG
+- 🌱 I’m currently learning ElasticSearch and ELK
+- 👯 I’m looking to collaborate on part-time and remote job
+- 💬 Ask me about Java development
+- 📫 How to reach me: @fakeYanss
+- ⚡ Fun fact: Yet another prosibility
+
 <!--
 **fakeYanss/fakeYanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
