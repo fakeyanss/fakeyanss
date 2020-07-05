@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://source.unsplash.com/user/yanss/likes/' htight='200' />
+<img src='https://source.unsplash.com/user/yanss/likes/' height='200' />
 
 
 - 🔭 I’m currently working on @Baidu ACG
