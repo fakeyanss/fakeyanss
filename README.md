@@ -6,8 +6,7 @@
 
 
 - 🔭 I’m currently working on @Baidu ACG
-- 🌱 I’m currently learning ElasticSearch and EFK
-- 👯 I’m looking to collaborate on part-time and remote job
+- 🌱 I’m currently learning netty
 - 💬 Ask me about Java development
 - 📫 How to reach me: [@fakeYanss](https://github.com/fakeYanss)
 - ⚡ Fun fact: Yet another prosibility
