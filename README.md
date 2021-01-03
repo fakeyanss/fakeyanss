@@ -4,13 +4,11 @@
 
 ### About me
 - 🔭 I’m currently working on @Baidu ACG
-- [🚀: Site](https://avelino.run) <br>
-- [📸: Instagram](https://www.instagram.com/fakeyanss/)
-- [🐦: Twitter](https://twitter.com/fakeYanss)
-- [💼: LinkedIn](https://www.linkedin.com/in/foretime) 
-- 📫: Mail
-  - [Personal](mailto:yanshisangc@gmail.com)
-  - [Work](mailto:guichen01@baidu.com)
+- [🚀 Site](https://avelino.run) <br>
+- [📸 Instagram](https://www.instagram.com/fakeyanss/)
+- [🐦 Twitter](https://twitter.com/fakeYanss)
+- [💼 LinkedIn](https://www.linkedin.com/in/foretime) 
+- [📫 Mail](mailto:yanshisangc@gmail.com)
 - ⚡ Fun fact: Yet another prosibility
 
 ### Recent open source contributions 👨‍💻
