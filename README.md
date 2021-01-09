@@ -23,9 +23,9 @@
 
 ### Latest Blog Posts 📕
 <!-- BLOG:START -->
+- [25岁迷思](https://foreti.me/blog/2021/01/09/thinking-at-25-years-old/)
 - [2020年10月度总结](https://foreti.me/blog/2020/10/28/2020-10-review/)
 - [2020年09月度总结](https://foreti.me/blog/2020/10/28/2020-09-review/)
 - [2020年08月度总结](https://foreti.me/blog/2020/09/05/2020-08-review/)
 - [2020年07月度总结](https://foreti.me/blog/2020/07/29/2020-07-review/)
-- [steam客户端页面循环加载失败修复方法](https://foreti.me/blog/2020/07/15/steam-load-error-fix/)
 <!-- BLOG:END -->
