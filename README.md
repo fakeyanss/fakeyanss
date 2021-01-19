@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred cangzhang/champ-r](https://github.com/cangzhang/champ-r)
 - [fakeYanss starred islenbo/autossh](https://github.com/islenbo/autossh)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/7194b540b2...ad4f7a81fb)
 - [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a7455ba401...a9decfed82)
 - [fakeYanss starred guyueyingmu/avbook](https://github.com/guyueyingmu/avbook)
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/24d30b5bc3...33349e8ce4)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
