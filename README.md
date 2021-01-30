@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss starred LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit)
-- [fakeYanss starred twonote/radosgw-admin4j](https://github.com/twonote/radosgw-admin4j)
-- [fakeYanss starred cangzhang/champ-r](https://github.com/cangzhang/champ-r)
-- [fakeYanss starred islenbo/autossh](https://github.com/islenbo/autossh)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/7194b540b2...ad4f7a81fb)
+- [fakeYanss pushed to gh-pages in fakeYanss/jsproxy](https://github.com/fakeYanss/jsproxy/compare/227ebad37f...9353b70200)
+- [fakeYanss pushed to gh-pages in fakeYanss/jsproxy](https://github.com/fakeYanss/jsproxy/compare/580b760767...227ebad37f)
+- [fakeYanss pushed to gh-pages in fakeYanss/jsproxy](https://github.com/fakeYanss/jsproxy/compare/a78ffb2c7e...580b760767)
+- [fakeYanss pushed to gh-pages in fakeYanss/jsproxy](https://github.com/fakeYanss/jsproxy/compare/9cfaa59f1e...a78ffb2c7e)
+- [fakeYanss starred Spedoske/CloudflareScanner](https://github.com/Spedoske/CloudflareScanner)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
