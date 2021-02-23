@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred joeyespo/grip](https://github.com/joeyespo/grip)
+- [fakeYanss starred axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer)
 - [fakeYanss pushed to master in fakeYanss/claim-epic-freebies](https://github.com/fakeYanss/claim-epic-freebies/compare/e25236e038...4b50d931d9)
 - [fakeYanss pushed to master in fakeYanss/claim-epic-freebies](https://github.com/fakeYanss/claim-epic-freebies/compare/649fef7e1f...e25236e038)
 - [fakeYanss pushed to master in fakeYanss/claim-epic-freebies](https://github.com/fakeYanss/claim-epic-freebies/compare/5cf9449d25...649fef7e1f)
-- [fakeYanss forked fakeYanss/claim-epic-freebies from xuac/claim-epic-freebies](https://github.com/fakeYanss/claim-epic-freebies)
-- [fakeYanss pushed to gh-pages in fakeYanss/jsproxy](https://github.com/fakeYanss/jsproxy/compare/407de6be67...09b8597a2d)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
