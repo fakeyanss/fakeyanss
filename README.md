@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/ad4f7a81fb...429ccdf8a7)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a9decfed82...bfc6da5d3c)
 - [fakeYanss starred sprov065/v2-ui](https://github.com/sprov065/v2-ui)
 - [fakeYanss starred FunctionClub/V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun)
 - [fakeYanss starred joeyespo/grip](https://github.com/joeyespo/grip)
-- [fakeYanss starred axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer)
-- [fakeYanss pushed to master in fakeYanss/claim-epic-freebies](https://github.com/fakeYanss/claim-epic-freebies/compare/e25236e038...4b50d931d9)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
