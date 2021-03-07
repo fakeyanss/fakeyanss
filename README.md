@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/429ccdf8a7...dbd613b3c4)
-- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/bfc6da5d3c...36119992a7)
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/460f582e2d...4846985a04)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/ad4f7a81fb...429ccdf8a7)
-- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a9decfed82...bfc6da5d3c)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/a9134d3ff1...4d9d055ede)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/a19af92ceb...a9134d3ff1)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/250f27a12a...a19af92ceb)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/3fddccc1a6...250f27a12a)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/be8af6c022...3fddccc1a6)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
