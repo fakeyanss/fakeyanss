@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred SuRRoK/jetbrains-agent](https://github.com/SuRRoK/jetbrains-agent)
 - [fakeYanss starred sindresorhus/trash](https://github.com/sindresorhus/trash)
 - [fakeYanss starred qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/b9ea2469b4...a41db4113c)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/d40b08149d...b9ea2469b4)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/64fced3b81...d40b08149d)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
