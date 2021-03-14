@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss starred SuRRoK/jetbrains-agent](https://github.com/SuRRoK/jetbrains-agent)
-- [fakeYanss starred sindresorhus/trash](https://github.com/sindresorhus/trash)
-- [fakeYanss starred qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/b9ea2469b4...a41db4113c)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/d40b08149d...b9ea2469b4)
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/dbd613b3c4...c3f805b589)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/36119992a7...d8c62d1632)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/5843ac54c3...133dce6fa7)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/d9609ce651...5843ac54c3)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/69c7d92a16...d9609ce651)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
