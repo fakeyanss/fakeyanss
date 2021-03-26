@@ -14,11 +14,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred baidu/m-git](https://github.com/baidu/m-git)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/b145a4be89...dfaa55332c)
 - [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/2553080074...5b6182e1a5)
 - [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/534de5402d...c34fdcd89e)
 - [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/2fb2a8790f...534de5402d)
-- [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/efa552e890...2fb2a8790f)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
