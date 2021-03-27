@@ -1,6 +1,7 @@
 ### Hey, I'm FakeYanss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
-[![FakeYanss's github stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&count_private=true)](https://github.com/fakeyanss)
+[![FakeYanss's github stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&count_private=true&line_height=24&show_icons=true)](https://github.com/fakeyanss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyanss&layout=compact&hide=html&langs_count=9)](https://github.com/fakeyanss)
 
 
 ### About me
@@ -15,11 +16,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/6a2b280d0a...98ea431490)
 - [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/d22fc112a5...3f03044283)
 - [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/6fac9114d0...ecd2289223)
 - [fakeYanss forked fakeYanss/github-readme-stats from anuraghazra/github-readme-stats](https://github.com/fakeYanss/github-readme-stats)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/33497b64cb...75f187b3d5)
+- [fakeYanss starred xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
