@@ -1,6 +1,7 @@
 ### Hey, I'm FakeYanss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
 [![FakeYanss's github stats](https://github-readme-stats.vercel.app/api?username=fakeyanss)](https://github.com/fakeyanss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyanss&hide=html)](https://github.com/fakeyanss)
 
 ### About me
 - 🔭 I’m currently working on @Baidu ACG
