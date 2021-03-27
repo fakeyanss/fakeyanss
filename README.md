@@ -12,11 +12,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/7a6e576c0e...00bab04cbb)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/fa7a10522f...9619fb9d0d)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/75f187b3d5...fa7a10522f)
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/726ecdd8b1...ef4778d382)
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/bc2774ca1e...554f6d2dc3)
+- [fakeYanss pushed to master in fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow/compare/ead40747bd...fcc06f544c)
+- [fakeYanss merged a pull request in fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow/pull/2)
+- [fakeYanss opened a pull request in fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow/pull/2)
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/c3b171eb69...bc2f325dd7)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/ed4f23e0bc...23afa650c0)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
