@@ -12,11 +12,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred yyzybb537/libgo](https://github.com/yyzybb537/libgo)
 - [fakeYanss commented on pull request zchen9/hexo-theme-hollow#43](https://github.com/zchen9/hexo-theme-hollow/pull/43#issuecomment-808762572)
 - [fakeYanss opened an issue in zchen9/hexo-theme-hollow](https://github.com/zchen9/hexo-theme-hollow/issues/45)
 - [fakeYanss opened a pull request in zchen9/hexo-theme-hollow](https://github.com/zchen9/hexo-theme-hollow/pull/44)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/bc2f325dd7...b54617fd27)
-- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/23afa650c0...fb9643f875)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
