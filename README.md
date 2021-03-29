@@ -6,7 +6,7 @@
 
 ### About me
 - 🔭 I’m currently working on @Baidu ACG
-- [🦓 Site](https://foreti.me)  ||  [📸 Instagram](https://www.instagram.com/fakeyanss/)  ||  [🐦 Twitter](https://twitter.com/fakeYanss)  ||  [💼 LinkedIn](https://www.linkedin.com/in/foretime)  ||  [📫 Mail](mailto:yanshisangc@gmail.com)
+- [🦓 Site](https://foreti.me)  |  [📸 Instagram](https://www.instagram.com/fakeyanss/)  |  [🐦 Twitter](https://twitter.com/fakeYanss)  |  [💼 LinkedIn](https://www.linkedin.com/in/foretime)  |  [📫 Mail](mailto:yanshisangc@gmail.com)
 - ⚡ Fun fact: Yet another prosibility
 
 ### Recent open source contributions 👨‍💻
