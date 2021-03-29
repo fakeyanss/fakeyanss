@@ -1,7 +1,12 @@
 ### Hey, I'm FakeYanss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
-[![FakeYanss's github stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&count_private=true&line_height=24&show_icons=true)](https://github.com/fakeyanss)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyanss&layout=compact&hide=html&langs_count=9)](https://github.com/fakeyanss)
+<!--[![FakeYanss's github stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&count_private=true&line_height=24&show_icons=true)](https://github.com/fakeyanss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyanss&layout=compact&hide=html&langs_count=9)](https://github.com/fakeyanss)-->
+
+<figure>
+<img src='https://github-readme-stats.vercel.app/api?username=fakeyanss&count_private=true&line_height=24&show_icons=true' alt="FakeYanss's github stats" width="50%", height="60px">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyanss&layout=compact&hide=html&langs_count=9' alt="FakeYanss's Top Langs" width="50%", height="60px">
+</figure>
 
 
 ### About me
