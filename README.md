@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a1458cc4cf...47aebb96d6)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a92e3ba51a...dd6c1a9c0a)
+- [fakeYanss pushed to master in fakeYanss/fakeYanss.github.io](https://github.com/fakeYanss/fakeYanss.github.io/compare/5c028c27bb...6752e7d022)
 - [fakeYanss starred x70b1/motd-on-acid](https://github.com/x70b1/motd-on-acid)
 - [fakeYanss starred jupyter/jupyter](https://github.com/jupyter/jupyter)
-- [fakeYanss starred baetyl/baetyl](https://github.com/baetyl/baetyl)
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/57e9fc5731...2db70d76cf)
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/991917e216...3cb1f59cfe)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
