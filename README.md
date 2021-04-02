@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/dotfiles from mathiasbynens/dotfiles](https://github.com/fakeYanss/dotfiles)
+- [fakeYanss starred mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/350e6a5448...2c7de604e0)
 - [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/dd6c1a9c0a...e9f7fb6ae7)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/9619fb9d0d...2000327224)
-- [fakeYanss starred google/gif-for-cli](https://github.com/google/gif-for-cli)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/47aebb96d6...350e6a5448)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
