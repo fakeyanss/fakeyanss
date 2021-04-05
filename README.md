@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred lightyearvpn/LightyearVPN](https://github.com/lightyearvpn/LightyearVPN)
 - [fakeYanss starred CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java)
 - [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/122ecffcbf...3094c93403)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/c57278bd95...5ab009cece)
 - [fakeYanss forked fakeYanss/Yuzu-NAND from IcosaSwitch/Yuzu-NAND](https://github.com/fakeYanss/Yuzu-NAND)
-- [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/2f358d9c54...122ecffcbf)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
