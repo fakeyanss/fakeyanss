@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred laurent22/joplin](https://github.com/laurent22/joplin)
 - [fakeYanss starred hotoo/pangu.vim](https://github.com/hotoo/pangu.vim)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/72b96f6087...0459003648)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/73835eb81e...72b96f6087)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/158eb3ea19...73835eb81e)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/43952489d3...158eb3ea19)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
