@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme)
 - [fakeYanss starred mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2)
 - [fakeYanss created a branch main in fakeYanss/baidu_map](https://github.com/fakeYanss/baidu_map/compare/main)
 - [fakeYanss created a repository fakeYanss/baidu_map](https://github.com/fakeYanss/baidu_map//)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/9bcf64248a...34d6cc6f9f)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/0459003648...9bcf64248a)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
