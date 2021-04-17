@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/3094c93403...e4545b00a3)
-- [fakeYanss forked fakeYanss/coding-interview-university from jwasham/coding-interview-university](https://github.com/fakeYanss/coding-interview-university)
-- [fakeYanss starred mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme)
-- [fakeYanss starred mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2)
-- [fakeYanss created a branch main in fakeYanss/baidu_map](https://github.com/fakeYanss/baidu_map/compare/main)
+- [fakeYanss forked fakeYanss/architect-awesome from xingshaocheng/architect-awesome](https://github.com/fakeYanss/architect-awesome)
+- [fakeYanss starred xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome)
+- [fakeYanss starred skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
+- [fakeYanss forked fakeYanss/dotfiles-1 from apemost/dotfiles](https://github.com/fakeYanss/dotfiles-1)
+- [fakeYanss forked fakeYanss/vimrc from apemost/vimrc](https://github.com/fakeYanss/vimrc)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
