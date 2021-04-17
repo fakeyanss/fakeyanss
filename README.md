@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/eeeaf2b13a...58b2b11a58)
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3d69a92388...eeeaf2b13a)
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/2638362412...3d69a92388)
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/207684dcba...2638362412)
 - [fakeYanss forked fakeYanss/architect-awesome from xingshaocheng/architect-awesome](https://github.com/fakeYanss/architect-awesome)
-- [fakeYanss starred xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome)
-- [fakeYanss starred skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
-- [fakeYanss forked fakeYanss/dotfiles-1 from apemost/dotfiles](https://github.com/fakeYanss/dotfiles-1)
-- [fakeYanss forked fakeYanss/vimrc from apemost/vimrc](https://github.com/fakeYanss/vimrc)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
