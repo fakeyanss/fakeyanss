@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss made fakeYanss/dotfiles public](https://github.com/fakeYanss/dotfiles)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/eeeaf2b13a...58b2b11a58)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3d69a92388...eeeaf2b13a)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/2638362412...3d69a92388)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/207684dcba...2638362412)
-- [fakeYanss forked fakeYanss/architect-awesome from xingshaocheng/architect-awesome](https://github.com/fakeYanss/architect-awesome)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
