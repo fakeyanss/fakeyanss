@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred starship/starship](https://github.com/starship/starship)
 - [fakeYanss starred stefanproell/jupyter-notebook-docker-compose](https://github.com/stefanproell/jupyter-notebook-docker-compose)
 - [fakeYanss commented on issue laurent22/joplin#4700](https://github.com/laurent22/joplin/issues/4700#issuecomment-821927312)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/9e50065384...19e1444eab)
 - [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/93a3acbf24...16826b0ca5)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/58b2b11a58...5cf959a96b)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
