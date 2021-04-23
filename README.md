@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/Wechatsync from wechatsync/Wechatsync](https://github.com/fakeYanss/Wechatsync)
+- [fakeYanss starred wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync)
+- [fakeYanss starred onblog/BlogHelper](https://github.com/onblog/BlogHelper)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/a14ef22a1f...c1859255fe)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/1599033b53...a14ef22a1f)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/a1b09c73c2...1599033b53)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/eae54225c1...88ab37faca)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/925a5fa6d1...eae54225c1)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
