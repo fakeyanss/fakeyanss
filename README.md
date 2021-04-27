@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow/compare/189676506f...5c8ea97963)
+- [fakeYanss merged a pull request in fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow/pull/3)
+- [fakeYanss opened a pull request in fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow/pull/3)
 - [fakeYanss created a repository fakeYanss/logseq](https://github.com/fakeYanss/logseq//)
 - [fakeYanss starred logseq/logseq](https://github.com/logseq/logseq)
-- [fakeYanss forked fakeYanss/Wechatsync from wechatsync/Wechatsync](https://github.com/fakeYanss/Wechatsync)
-- [fakeYanss starred wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync)
-- [fakeYanss starred onblog/BlogHelper](https://github.com/onblog/BlogHelper)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
