@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/cafd0c9939...5fb6cc5fca)
-- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/26)
-- [fakeYanss closed an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/25)
-- [fakeYanss closed an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/24)
-- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/25)
+- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/37)
+- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/36)
+- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/35)
+- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/34)
+- [fakeYanss commented on issue fakeYanss/til#33](https://github.com/fakeYanss/til/issues/33#issuecomment-830759709)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
