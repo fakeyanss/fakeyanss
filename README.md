@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/1cbb99469b...8e1dc93246)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/6609bb9d7b...1cbb99469b)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/681c254adf...6609bb9d7b)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/fc5ccc8997...681c254adf)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/91533676d3...fc5ccc8997)
+- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/6559b3101e...0dc012907c)
+- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/ab63513ef4...6559b3101e)
+- [fakeYanss pushed to master in fakeYanss/fakeYanss.github.io](https://github.com/fakeYanss/fakeYanss.github.io/compare/da44d79e2a...6cad96f8d9)
+- [fakeYanss pushed to master in fakeYanss/fakeYanss.github.io](https://github.com/fakeYanss/fakeYanss.github.io/compare/4ca98665e3...da44d79e2a)
+- [fakeYanss pushed to master in fakeYanss/fakeYanss.github.io](https://github.com/fakeYanss/fakeYanss.github.io/compare/9ba7188ff4...4ca98665e3)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
