@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred mindskip/xzs](https://github.com/mindskip/xzs)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/f594abdc67...7ebd355edb)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/6be2fca5db...f594abdc67)
 - [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/b346473810...6c39bf0f8d)
 - [fakeYanss merged a pull request in fakeYanss/til](https://github.com/fakeYanss/til/pull/41)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/45e4430dbb...d6420467c9)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
