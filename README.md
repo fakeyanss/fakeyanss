@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/d6420467c9...d32be12324)
 - [fakeYanss starred bfenetworks/bfe](https://github.com/bfenetworks/bfe)
 - [fakeYanss starred baidu/bfe-book](https://github.com/baidu/bfe-book)
 - [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/42)
 - [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/6c39bf0f8d...783ec4511b)
-- [fakeYanss starred mindskip/xzs](https://github.com/mindskip/xzs)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
