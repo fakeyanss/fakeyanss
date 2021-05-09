@@ -24,9 +24,9 @@
 
 ### Latest Blog Posts 📕
 <!-- BLOG:START -->
+- [docsify 折腾](https://foreti.me/blog/2021/05/09/docsify-build/)
 - [北京二年回顾](https://foreti.me/blog/2021/03/29/2-years-in-beijing/)
 - [Java字符串拼接方法](https://foreti.me/blog/2021/03/26/java-string-cancat/)
 - [Mac从零搭建开发环境](https://foreti.me/blog/2021/03/14/setup-env-on-mac/)
 - [25岁迷思](https://foreti.me/blog/2021/01/09/thinking-at-25-years-old/)
-- [2020年10月度总结](https://foreti.me/blog/2020/10/28/2020-10-review/)
 <!-- BLOG:END -->
