@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/82762b06cb...213ce3d805)
-- [fakeYanss merged a pull request in fakeYanss/blog](https://github.com/fakeYanss/blog/pull/4)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/08d22d08c6...0e6031a496)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/8ffe1200a9...384e3bd01c)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/e6cee4f00d...08d22d08c6)
+- [fakeYanss starred Ovilia/omynote](https://github.com/Ovilia/omynote)
+- [fakeYanss pushed to master in fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job/compare/b99382d114...b35371c3f0)
+- [fakeYanss merged a pull request in fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job/pull/1)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/bc980e9ccf...7971fc0b01)
+- [fakeYanss merged a pull request in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/pull/2)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
