@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred minio/minio](https://github.com/minio/minio)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/e0c176158f...9d0441d117)
 - [fakeYanss starred Ovilia/omynote](https://github.com/Ovilia/omynote)
 - [fakeYanss pushed to master in fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job/compare/b99382d114...b35371c3f0)
 - [fakeYanss merged a pull request in fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job/pull/1)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/bc980e9ccf...7971fc0b01)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
