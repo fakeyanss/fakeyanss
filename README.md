@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred Renovamen/playground-macos](https://github.com/Renovamen/playground-macos)
+- [fakeYanss starred justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN)
 - [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/43)
 - [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/0e6031a496...fccad15cf5)
 - [fakeYanss starred minio/minio](https://github.com/minio/minio)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/e0c176158f...9d0441d117)
-- [fakeYanss starred Ovilia/omynote](https://github.com/Ovilia/omynote)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
