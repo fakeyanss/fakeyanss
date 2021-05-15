@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred hediet/vscode-drawio](https://github.com/hediet/vscode-drawio)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/9d0441d117...b835ff18da)
 - [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/830843eb1e...3c6861c8b5)
 - [fakeYanss starred Renovamen/playground-macos](https://github.com/Renovamen/playground-macos)
 - [fakeYanss starred justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN)
-- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/43)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
