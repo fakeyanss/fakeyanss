@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/64cdab333d...c20c69fac1)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/b835ff18da...4ce42b6e9b)
 - [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/3c6861c8b5...59133152a2)
 - [fakeYanss starred photoprism/photoprism](https://github.com/photoprism/photoprism)
 - [fakeYanss starred doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)
-- [fakeYanss starred sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
