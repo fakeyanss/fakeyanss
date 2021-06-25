@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred neovim/neovim](https://github.com/neovim/neovim)
+- [fakeYanss starred ahonn/dotfiles](https://github.com/ahonn/dotfiles)
 - [fakeYanss starred acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 - [fakeYanss starred monyhar/monyhar](https://github.com/monyhar/monyhar)
 - [fakeYanss starred viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/64cdab333d...c20c69fac1)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/b835ff18da...4ce42b6e9b)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
