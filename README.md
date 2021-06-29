@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred Ryan-Miao/docker-china-source](https://github.com/Ryan-Miao/docker-china-source)
+- [fakeYanss starred HelloGitHub-Team/HelloZooKeeper](https://github.com/HelloGitHub-Team/HelloZooKeeper)
 - [fakeYanss starred HDT3213/godis](https://github.com/HDT3213/godis)
 - [fakeYanss starred rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
 - [fakeYanss starred jynew/jynew](https://github.com/jynew/jynew)
-- [fakeYanss starred rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)
-- [fakeYanss starred neovim/neovim](https://github.com/neovim/neovim)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
