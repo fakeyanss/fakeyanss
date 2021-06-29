@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred HDT3213/godis](https://github.com/HDT3213/godis)
+- [fakeYanss starred rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
+- [fakeYanss starred jynew/jynew](https://github.com/jynew/jynew)
 - [fakeYanss starred rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)
 - [fakeYanss starred neovim/neovim](https://github.com/neovim/neovim)
-- [fakeYanss starred ahonn/dotfiles](https://github.com/ahonn/dotfiles)
-- [fakeYanss starred acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-- [fakeYanss starred monyhar/monyhar](https://github.com/monyhar/monyhar)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
