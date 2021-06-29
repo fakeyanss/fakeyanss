@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)
 - [fakeYanss starred neovim/neovim](https://github.com/neovim/neovim)
 - [fakeYanss starred ahonn/dotfiles](https://github.com/ahonn/dotfiles)
 - [fakeYanss starred acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 - [fakeYanss starred monyhar/monyhar](https://github.com/monyhar/monyhar)
-- [fakeYanss starred viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
