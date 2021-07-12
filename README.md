@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/4ce42b6e9b...a043fa1532)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/59133152a2...c783015e52)
 - [fakeYanss starred Ryan-Miao/docker-china-source](https://github.com/Ryan-Miao/docker-china-source)
 - [fakeYanss starred HelloGitHub-Team/HelloZooKeeper](https://github.com/HelloGitHub-Team/HelloZooKeeper)
 - [fakeYanss starred HDT3213/godis](https://github.com/HDT3213/godis)
-- [fakeYanss starred rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11)
-- [fakeYanss starred jynew/jynew](https://github.com/jynew/jynew)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
