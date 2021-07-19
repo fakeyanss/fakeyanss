@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred juicedata/juicefs](https://github.com/juicedata/juicefs)
 - [fakeYanss commented on issue juicedata/juicesync#116](https://github.com/juicedata/juicesync/issues/116#issuecomment-882259677)
 - [fakeYanss commented on issue juicedata/juicesync#116](https://github.com/juicedata/juicesync/issues/116#issuecomment-882257651)
 - [fakeYanss commented on issue juicedata/juicesync#116](https://github.com/juicedata/juicesync/issues/116#issuecomment-882255794)
 - [fakeYanss opened an issue in juicedata/juicesync](https://github.com/juicedata/juicesync/issues/116)
-- [fakeYanss opened an issue in juicedata/juicesync](https://github.com/juicedata/juicesync/issues/115)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
