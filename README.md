@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss starred ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
-- [fakeYanss starred swwheihei/wvp-GB28181](https://github.com/swwheihei/wvp-GB28181)
-- [fakeYanss commented on issue juicedata/juicesync#116](https://github.com/juicedata/juicesync/issues/116#issuecomment-886014655)
-- [fakeYanss closed an issue in juicedata/juicesync](https://github.com/juicedata/juicesync/issues/116)
-- [fakeYanss commented on issue juicedata/juicesync#116](https://github.com/juicedata/juicesync/issues/116#issuecomment-885465558)
+- [fakeYanss created a branch master in mess-around/CapacityAwareQueue-Redis](https://github.com/fakeYanss/CapacityAwareQueue-Redis/compare/master)
+- [fakeYanss created a repository fakeYanss/CapacityAwareQueue-Redis](https://github.com/fakeYanss/CapacityAwareQueue-Redis//)
+- [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/e4545b00a3...32880f557a)
+- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/45)
+- [fakeYanss starred doocs/source-code-hunter](https://github.com/doocs/source-code-hunter)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
