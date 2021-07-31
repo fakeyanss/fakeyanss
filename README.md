@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred esoco/coroutines](https://github.com/esoco/coroutines)
 - [fakeYanss starred electronicarts/ea-async](https://github.com/electronicarts/ea-async)
 - [fakeYanss starred NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 - [fakeYanss created a branch master in mess-around/CapacityAwareQueue-Redis](https://github.com/fakeYanss/CapacityAwareQueue-Redis/compare/master)
 - [fakeYanss created a repository fakeYanss/CapacityAwareQueue-Redis](https://github.com/fakeYanss/CapacityAwareQueue-Redis//)
-- [fakeYanss pushed to master in fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution/compare/e4545b00a3...32880f557a)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
