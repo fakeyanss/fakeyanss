@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred mydockfinder/mydockfinder-for-Win10-Win11](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11)
 - [fakeYanss starred darknessomi/musicbox](https://github.com/darknessomi/musicbox)
 - [fakeYanss starred esoco/coroutines](https://github.com/esoco/coroutines)
 - [fakeYanss starred electronicarts/ea-async](https://github.com/electronicarts/ea-async)
 - [fakeYanss starred NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-- [fakeYanss created a branch master in mess-around/CapacityAwareQueue-Redis](https://github.com/fakeYanss/CapacityAwareQueue-Redis/compare/master)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
