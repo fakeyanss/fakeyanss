@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a043fa1532...a058da008a)
 - [fakeYanss starred commonmark/commonmark-java](https://github.com/commonmark/commonmark-java)
 - [fakeYanss starred mydockfinder/mydockfinder-for-Win10-Win11](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11)
 - [fakeYanss starred darknessomi/musicbox](https://github.com/darknessomi/musicbox)
 - [fakeYanss starred esoco/coroutines](https://github.com/esoco/coroutines)
-- [fakeYanss starred electronicarts/ea-async](https://github.com/electronicarts/ea-async)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
