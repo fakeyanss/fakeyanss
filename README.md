@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a058da008a...bc1dcf166b)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/c783015e52...75e3aae106)
 - [fakeYanss starred plantuml/plantuml](https://github.com/plantuml/plantuml)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a043fa1532...a058da008a)
 - [fakeYanss starred commonmark/commonmark-java](https://github.com/commonmark/commonmark-java)
-- [fakeYanss starred mydockfinder/mydockfinder-for-Win10-Win11](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11)
-- [fakeYanss starred darknessomi/musicbox](https://github.com/darknessomi/musicbox)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
