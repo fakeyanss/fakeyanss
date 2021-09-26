@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss starred Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template)
-- [fakeYanss starred cannibalox/logtools](https://github.com/cannibalox/logtools)
-- [fakeYanss starred SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
-- [fakeYanss pushed to master in fakeYanss/C4-PlantUML](https://github.com/fakeYanss/C4-PlantUML/compare/166c1c3edf...93fa6ba031)
-- [fakeYanss pushed to master in fakeYanss/C4-PlantUML](https://github.com/fakeYanss/C4-PlantUML/compare/08e18897d7...166c1c3edf)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/bd4a69a8f0...b06c33542d)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/be50152d08...bd4a69a8f0)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/744c9de7c8...be50152d08)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/0a2411d4ad...744c9de7c8)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/81f648a407...0a2411d4ad)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
