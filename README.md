@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss created a repository fakeYanss/JetBrainSetting](https://github.com/fakeYanss/JetBrainSetting//)
 - [fakeYanss starred Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template)
 - [fakeYanss starred cannibalox/logtools](https://github.com/cannibalox/logtools)
 - [fakeYanss starred SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
 - [fakeYanss pushed to master in fakeYanss/C4-PlantUML](https://github.com/fakeYanss/C4-PlantUML/compare/166c1c3edf...93fa6ba031)
+- [fakeYanss pushed to master in fakeYanss/C4-PlantUML](https://github.com/fakeYanss/C4-PlantUML/compare/08e18897d7...166c1c3edf)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
