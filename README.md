@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
 - [fakeYanss starred xqiangme/spring-boot-example](https://github.com/xqiangme/spring-boot-example)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/4c24fbbcd5...3d3caa46b3)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/b06c33542d...4c24fbbcd5)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/bd4a69a8f0...b06c33542d)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/be50152d08...bd4a69a8f0)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
