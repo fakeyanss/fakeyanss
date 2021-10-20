@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)
 - [fakeYanss forked fakeYanss/gat1400 from hxrui/gat1400](https://github.com/fakeYanss/gat1400)
 - [fakeYanss starred hxrui/gat1400](https://github.com/hxrui/gat1400)
 - [fakeYanss opened an issue in airflowshu/GAT1400-VIID](https://github.com/airflowshu/GAT1400-VIID/issues/1)
 - [fakeYanss starred WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
-- [fakeYanss starred xqiangme/spring-boot-example](https://github.com/xqiangme/spring-boot-example)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
