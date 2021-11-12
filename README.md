@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred intsmaze/flink-boot](https://github.com/intsmaze/flink-boot)
 - [fakeYanss starred zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning)
 - [fakeYanss starred apache/flink-playgrounds](https://github.com/apache/flink-playgrounds)
 - [fakeYanss starred rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)
 - [fakeYanss starred nanguantong/gat-1400](https://github.com/nanguantong/gat-1400)
-- [fakeYanss starred alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
