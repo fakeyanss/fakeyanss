@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred paulmillr/dotfiles](https://github.com/paulmillr/dotfiles)
 - [fakeYanss starred CheckChe0803/flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo)
 - [fakeYanss starred zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web)
 - [fakeYanss starred lyft/flinkk8soperator](https://github.com/lyft/flinkk8soperator)
 - [fakeYanss starred intsmaze/flink-boot](https://github.com/intsmaze/flink-boot)
-- [fakeYanss starred zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
