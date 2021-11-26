@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred streaming-with-flink/examples-java](https://github.com/streaming-with-flink/examples-java)
 - [fakeYanss starred docker-flink/examples](https://github.com/docker-flink/examples)
 - [fakeYanss starred paulmillr/dotfiles](https://github.com/paulmillr/dotfiles)
 - [fakeYanss starred CheckChe0803/flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo)
 - [fakeYanss starred zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web)
-- [fakeYanss starred lyft/flinkk8soperator](https://github.com/lyft/flinkk8soperator)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
