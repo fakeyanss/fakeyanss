@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred apache/flink](https://github.com/apache/flink)
 - [fakeYanss starred opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 - [fakeYanss starred streaming-with-flink/examples-java](https://github.com/streaming-with-flink/examples-java)
 - [fakeYanss starred docker-flink/examples](https://github.com/docker-flink/examples)
 - [fakeYanss starred paulmillr/dotfiles](https://github.com/paulmillr/dotfiles)
-- [fakeYanss starred CheckChe0803/flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
