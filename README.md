@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
+- [fakeYanss starred steveukx/git-js](https://github.com/steveukx/git-js)
 - [fakeYanss starred AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
 - [fakeYanss forked fakeYanss/appflowy from AppFlowy-IO/appflowy](https://github.com/fakeYanss/appflowy)
 - [fakeYanss starred fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution)
-- [fakeYanss pushed to master in fakeYanss/til](https://github.com/fakeYanss/til/compare/910fda89bc...f3dd6e52ed)
-- [fakeYanss merged a pull request in fakeYanss/til](https://github.com/fakeYanss/til/pull/44)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
