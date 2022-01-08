@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 - [fakeYanss starred juqkai/obsidian-proxy-github](https://github.com/juqkai/obsidian-proxy-github)
 - [fakeYanss starred denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
 - [fakeYanss starred steveukx/git-js](https://github.com/steveukx/git-js)
 - [fakeYanss starred AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
-- [fakeYanss forked fakeYanss/appflowy from AppFlowy-IO/appflowy](https://github.com/fakeYanss/appflowy)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
