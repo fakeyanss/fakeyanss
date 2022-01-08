@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred saveweb/review-2021](https://github.com/saveweb/review-2021)
+- [fakeYanss starred zxlie/dingtalk-client](https://github.com/zxlie/dingtalk-client)
+- [fakeYanss starred xeffyr/android-vshell](https://github.com/xeffyr/android-vshell)
 - [fakeYanss starred gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 - [fakeYanss starred juqkai/obsidian-proxy-github](https://github.com/juqkai/obsidian-proxy-github)
-- [fakeYanss starred denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
-- [fakeYanss starred steveukx/git-js](https://github.com/steveukx/git-js)
-- [fakeYanss starred AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
