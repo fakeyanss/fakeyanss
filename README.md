@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/LeetcodeTop from afatcoder/LeetcodeTop](https://github.com/fakeYanss/LeetcodeTop)
+- [fakeYanss starred afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 - [fakeYanss starred drakkan/sftpgo](https://github.com/drakkan/sftpgo)
 - [fakeYanss starred lostintime/aws-s3-webdav](https://github.com/lostintime/aws-s3-webdav)
 - [fakeYanss starred zxbu/webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver)
-- [fakeYanss starred saveweb/review-2021](https://github.com/saveweb/review-2021)
-- [fakeYanss starred zxlie/dingtalk-client](https://github.com/zxlie/dingtalk-client)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
