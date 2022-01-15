@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss forked fakeYanss/running_page from yihong0618/running_page](https://github.com/fakeYanss/running_page)
-- [fakeYanss starred yihong0618/running_page](https://github.com/yihong0618/running_page)
-- [fakeYanss forked fakeYanss/LeetcodeTop from afatcoder/LeetcodeTop](https://github.com/fakeYanss/LeetcodeTop)
-- [fakeYanss starred afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
-- [fakeYanss starred drakkan/sftpgo](https://github.com/drakkan/sftpgo)
+- [fakeYanss pushed to gh-pages in fakeYanss/run](https://github.com/fakeYanss/run/compare/7f53fdea7c...927e69b187)
+- [fakeYanss pushed to gh-pages in fakeYanss/run](https://github.com/fakeYanss/run/compare/f1ccd45f2b...7f53fdea7c)
+- [fakeYanss pushed to master in fakeYanss/run](https://github.com/fakeYanss/running_page/compare/5daa911a26...3ec7ef1844)
+- [fakeYanss pushed to master in fakeYanss/run](https://github.com/fakeYanss/running_page/compare/f67ce3306f...5daa911a26)
+- [fakeYanss pushed to master in fakeYanss/run](https://github.com/fakeYanss/running_page/compare/c6fac93d47...f67ce3306f)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
