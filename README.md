@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon)
+- [fakeYanss starred liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles)
 - [fakeYanss pushed to gh-pages in fakeYanss/run](https://github.com/fakeYanss/run/compare/927e69b187...9ab2654bfc)
 - [fakeYanss pushed to master in fakeYanss/run](https://github.com/fakeYanss/run/compare/be308d5e0a...aed0bb9d9d)
 - [fakeYanss pushed to gh-pages in fakeYanss/run](https://github.com/fakeYanss/run/compare/7f53fdea7c...927e69b187)
-- [fakeYanss pushed to gh-pages in fakeYanss/run](https://github.com/fakeYanss/run/compare/f1ccd45f2b...7f53fdea7c)
-- [fakeYanss pushed to master in fakeYanss/run](https://github.com/fakeYanss/running_page/compare/5daa911a26...3ec7ef1844)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
