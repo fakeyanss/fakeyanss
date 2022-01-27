@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/40ccef5db0...8976c4eb5a)
 - [fakeYanss starred atomantic/dotfiles](https://github.com/atomantic/dotfiles)
 - [fakeYanss starred thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)
 - [fakeYanss starred ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon)
 - [fakeYanss starred vercel/hyper](https://github.com/vercel/hyper)
-- [fakeYanss pushed to main in fakeYanss/jvm](https://github.com/fakeYanss/jvm/compare/046ea2d971...72cc7f66b6)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
