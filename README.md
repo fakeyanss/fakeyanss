@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp)
 - [fakeYanss starred ansible/ansible](https://github.com/ansible/ansible)
 - [fakeYanss starred guyueyingmu/avbook](https://github.com/guyueyingmu/avbook)
 - [fakeYanss opened an issue in Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon/issues/3100)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/40ccef5db0...8976c4eb5a)
-- [fakeYanss starred atomantic/dotfiles](https://github.com/atomantic/dotfiles)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
