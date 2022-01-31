@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/chinese-programmer-wrong-pronunciation from shimohq/chinese-programmer-wrong-pronunciation](https://github.com/fakeYanss/chinese-programmer-wrong-pronunciation)
+- [fakeYanss starred shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3a1462f1d8...52449ae7cf)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/cef2b9cdad...3a1462f1d8)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/142bd53831...cef2b9cdad)
-- [fakeYanss made fakeYanss/dotfiles public](https://github.com/fakeYanss/dotfiles)
-- [fakeYanss starred asdf-vm/asdf](https://github.com/asdf-vm/asdf)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
