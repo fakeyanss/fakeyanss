@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred json-path/JsonPath](https://github.com/json-path/JsonPath)
+- [fakeYanss starred zxbu/iBook](https://github.com/zxbu/iBook)
+- [fakeYanss forked fakeYanss/webdav-aliyundriver from zxbu/webdav-aliyundriver](https://github.com/fakeYanss/webdav-aliyundriver)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/6385ca03f3...fff7cf56f4)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/55d36aeef1...6385ca03f3)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/52449ae7cf...55d36aeef1)
-- [fakeYanss forked fakeYanss/chinese-programmer-wrong-pronunciation from shimohq/chinese-programmer-wrong-pronunciation](https://github.com/fakeYanss/chinese-programmer-wrong-pronunciation)
-- [fakeYanss starred shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
