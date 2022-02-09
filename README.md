@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)
 - [fakeYanss starred json-path/JsonPath](https://github.com/json-path/JsonPath)
 - [fakeYanss starred zxbu/iBook](https://github.com/zxbu/iBook)
 - [fakeYanss forked fakeYanss/webdav-aliyundriver from zxbu/webdav-aliyundriver](https://github.com/fakeYanss/webdav-aliyundriver)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/6385ca03f3...fff7cf56f4)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/55d36aeef1...6385ca03f3)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
