@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 - [fakeYanss starred ayamir/nvimdots](https://github.com/ayamir/nvimdots)
 - [fakeYanss commented on issue webclipper/web-clipper#961](https://github.com/webclipper/web-clipper/issues/961#issuecomment-1034467752)
 - [fakeYanss starred ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
 - [fakeYanss starred hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)
-- [fakeYanss starred json-path/JsonPath](https://github.com/json-path/JsonPath)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
