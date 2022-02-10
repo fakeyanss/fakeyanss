@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss commented on issue webclipper/web-clipper#961](https://github.com/webclipper/web-clipper/issues/961#issuecomment-1034467752)
+- [fakeYanss starred ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
 - [fakeYanss starred hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)
 - [fakeYanss starred json-path/JsonPath](https://github.com/json-path/JsonPath)
 - [fakeYanss starred zxbu/iBook](https://github.com/zxbu/iBook)
-- [fakeYanss forked fakeYanss/webdav-aliyundriver from zxbu/webdav-aliyundriver](https://github.com/fakeYanss/webdav-aliyundriver)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/6385ca03f3...fff7cf56f4)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
