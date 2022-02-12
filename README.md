@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 - [fakeYanss starred shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)
 - [fakeYanss starred nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/da58307980...449dad5930)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/a5f00321b9...da58307980)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/fff7cf56f4...a5f00321b9)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
