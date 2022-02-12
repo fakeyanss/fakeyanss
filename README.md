@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/da58307980...449dad5930)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/a5f00321b9...da58307980)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/fff7cf56f4...a5f00321b9)
 - [fakeYanss starred LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-- [fakeYanss starred wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
