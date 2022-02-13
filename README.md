@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [fakeYanss starred hewenjin/config](https://github.com/hewenjin/config)
 - [fakeYanss starred glacambre/firenvim](https://github.com/glacambre/firenvim)
 - [fakeYanss starred leachim6/hello-world](https://github.com/leachim6/hello-world)
 - [fakeYanss starred neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
-- [fakeYanss starred ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
