@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
 - [fakeYanss starred rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [fakeYanss starred vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/34e720719b...15093e63f7)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3fc88c384b...34e720719b)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/ecea8d81f1...3fc88c384b)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
