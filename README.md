@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss commented on issue Hammerspoon/hammerspoon#3100](https://github.com/Hammerspoon/hammerspoon/issues/3100#issuecomment-1049984883)
+- [fakeYanss starred Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3e32bc0310...0808a99041)
 - [fakeYanss starred svsool/vscode-memo](https://github.com/svsool/vscode-memo)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/6bf212ac37...a8d270e2cf)
-- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/2ef23b2a8c...559afc6f48)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/6a32d7d90e...6bf212ac37)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
