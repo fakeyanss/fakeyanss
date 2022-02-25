@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/0ffc4c19bd...76e55d7939)
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/cbdfe67f77...0ffc4c19bd)
 - [fakeYanss commented on issue neovim/nvim-lspconfig#1738](https://github.com/neovim/nvim-lspconfig/issues/1738#issuecomment-1051029124)
 - [fakeYanss opened an issue in neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig/issues/1738)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/0808a99041...cbdfe67f77)
-- [fakeYanss starred renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim)
-- [fakeYanss starred jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
