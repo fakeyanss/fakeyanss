@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim)
 - [fakeYanss starred jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim)
 - [fakeYanss starred nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 - [fakeYanss commented on issue Hammerspoon/hammerspoon#3100](https://github.com/Hammerspoon/hammerspoon/issues/3100#issuecomment-1049984883)
 - [fakeYanss starred Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3e32bc0310...0808a99041)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
