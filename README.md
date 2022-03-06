@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred zu1k/nali](https://github.com/zu1k/nali)
 - [fakeYanss starred foambubble/foam](https://github.com/foambubble/foam)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/76e55d7939...451234cf25)
 - [fakeYanss starred Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 - [fakeYanss starred Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos)
-- [fakeYanss starred Twigonometry/writeup-converter](https://github.com/Twigonometry/writeup-converter)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
