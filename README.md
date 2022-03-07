@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/cc777dce0d...75f22c6c0f)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/148ae434fe...cc777dce0d)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/8976c4eb5a...148ae434fe)
 - [fakeYanss starred zu1k/nali](https://github.com/zu1k/nali)
 - [fakeYanss starred foambubble/foam](https://github.com/foambubble/foam)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/76e55d7939...451234cf25)
-- [fakeYanss starred Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-- [fakeYanss starred Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
