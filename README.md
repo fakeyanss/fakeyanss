@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/451234cf25...994562f584)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/cc777dce0d...75f22c6c0f)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/148ae434fe...cc777dce0d)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/8976c4eb5a...148ae434fe)
 - [fakeYanss starred zu1k/nali](https://github.com/zu1k/nali)
-- [fakeYanss starred foambubble/foam](https://github.com/foambubble/foam)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
