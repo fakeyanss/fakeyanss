@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/52e025badc...e36e60a964)
 - [fakeYanss starred christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/81f4946bc8...52e025badc)
 - [fakeYanss starred ing-bank/flink-deployer](https://github.com/ing-bank/flink-deployer)
 - [fakeYanss commented on issue Hammerspoon/hammerspoon#3100](https://github.com/Hammerspoon/hammerspoon/issues/3100#issuecomment-1062914430)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/34f91c1185...81f4946bc8)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
