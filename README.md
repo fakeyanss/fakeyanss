@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred Wenmoux/sources](https://github.com/Wenmoux/sources)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/e36e60a964...f86b85f291)
 - [fakeYanss starred ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/52e025badc...e36e60a964)
 - [fakeYanss starred christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/81f4946bc8...52e025badc)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
