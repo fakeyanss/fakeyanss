@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred why20021008/hand-write](https://github.com/why20021008/hand-write)
 - [fakeYanss starred geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 - [fakeYanss starred yuzutech/kroki](https://github.com/yuzutech/kroki)
 - [fakeYanss starred luanjunyi/smac_booking_robot](https://github.com/luanjunyi/smac_booking_robot)
 - [fakeYanss starred purocean/yn](https://github.com/purocean/yn)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a8d270e2cf...2e01dd62e8)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
