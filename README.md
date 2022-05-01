@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred fuzhengwei/Lottery](https://github.com/fuzhengwei/Lottery)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/65704de6eb...a4c1148156)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/dfc88251e9...65704de6eb)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/0a6cb748ef...dfc88251e9)
 - [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/75f22c6c0f...0a6cb748ef)
-- [fakeYanss starred why20021008/hand-write](https://github.com/why20021008/hand-write)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
