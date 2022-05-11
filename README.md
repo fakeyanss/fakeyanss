@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred AlexEidt/Vidio](https://github.com/AlexEidt/Vidio)
 - [fakeYanss starred xi-editor/xi-editor](https://github.com/xi-editor/xi-editor)
 - [fakeYanss starred QingWei-Li/notea](https://github.com/QingWei-Li/notea)
 - [fakeYanss starred longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j)
 - [fakeYanss starred jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-- [fakeYanss starred WangNingkai/ServerChan-Push](https://github.com/WangNingkai/ServerChan-Push)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
