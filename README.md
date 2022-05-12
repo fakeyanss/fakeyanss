@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss starred AlexEidt/Vidio](https://github.com/AlexEidt/Vidio)
-- [fakeYanss starred xi-editor/xi-editor](https://github.com/xi-editor/xi-editor)
-- [fakeYanss starred QingWei-Li/notea](https://github.com/QingWei-Li/notea)
-- [fakeYanss starred longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j)
-- [fakeYanss starred jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
+- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/7b19855d45...ef4b979230)
+- [fakeYanss merged a pull request in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/pull/3)
+- [fakeYanss deleted branch dependabot/npm_and_yarn/path-parse-1.0.7 at fakeYanss/blog](https://github.com/)
+- [fakeYanss closed a pull request in fakeYanss/blog](https://github.com/fakeYanss/blog/pull/6)
+- [fakeYanss deleted branch dependabot/npm_and_yarn/moment-2.29.2 at fakeYanss/blog](https://github.com/)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
