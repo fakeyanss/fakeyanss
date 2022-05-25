@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred tml1024/FluffyDisplay](https://github.com/tml1024/FluffyDisplay)
 - [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/46)
 - [fakeYanss starred gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com)
 - [fakeYanss forked fakeYanss/d2l-zh from d2l-ai/d2l-zh](https://github.com/fakeYanss/d2l-zh)
 - [fakeYanss starred d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/d168135083...f84cab6e1a)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
