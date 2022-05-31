@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred ossaw/books](https://github.com/ossaw/books)
 - [fakeYanss forked fakeYanss/HumanSystemOptimization from zijie0/HumanSystemOptimization](https://github.com/fakeYanss/HumanSystemOptimization)
 - [fakeYanss starred payloadcms/payload](https://github.com/payloadcms/payload)
 - [fakeYanss starred zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 - [fakeYanss starred tml1024/FluffyDisplay](https://github.com/tml1024/FluffyDisplay)
-- [fakeYanss opened an issue in fakeYanss/til](https://github.com/fakeYanss/til/issues/46)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
