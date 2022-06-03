@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt)
 - [fakeYanss forked fakeYanss/nas-tools from jxxghp/nas-tools](https://github.com/fakeYanss/nas-tools)
 - [fakeYanss starred anzhihe/learning](https://github.com/anzhihe/learning)
 - [fakeYanss starred ossaw/books](https://github.com/ossaw/books)
 - [fakeYanss forked fakeYanss/HumanSystemOptimization from zijie0/HumanSystemOptimization](https://github.com/fakeYanss/HumanSystemOptimization)
-- [fakeYanss starred payloadcms/payload](https://github.com/payloadcms/payload)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
