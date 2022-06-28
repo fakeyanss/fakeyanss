@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred crossoverJie/gjson](https://github.com/crossoverJie/gjson)
 - [fakeYanss forked fakeYanss/duty-machine-action from duty-machine/duty-machine-action](https://github.com/fakeYanss/duty-machine-action)
 - [fakeYanss starred tw93/MiaoYan](https://github.com/tw93/MiaoYan)
 - [fakeYanss starred leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [fakeYanss starred cc-qq-gg/instant-chat](https://github.com/cc-qq-gg/instant-chat)
-- [fakeYanss starred riverzhang/Mini-Spider-In-Golang](https://github.com/riverzhang/Mini-Spider-In-Golang)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
