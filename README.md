@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss opened an issue in duty-machine/duty-machine-action](https://github.com/duty-machine/duty-machine-action/issues/21)
+- [fakeYanss starred duty-machine/duty-machine-action](https://github.com/duty-machine/duty-machine-action)
 - [fakeYanss pushed to master in fakeYanss/duty-machine-action](https://github.com/fakeYanss/duty-machine-action/compare/1a5863db91...fe0f243048)
 - [fakeYanss starred crossoverJie/gjson](https://github.com/crossoverJie/gjson)
 - [fakeYanss forked fakeYanss/duty-machine-action from duty-machine/duty-machine-action](https://github.com/fakeYanss/duty-machine-action)
-- [fakeYanss starred tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-- [fakeYanss starred leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
