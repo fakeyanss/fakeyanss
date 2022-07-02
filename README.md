@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred trzsz/trzsz](https://github.com/trzsz/trzsz)
 - [fakeYanss starred qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 - [fakeYanss opened an issue in duty-machine/duty-machine-action](https://github.com/duty-machine/duty-machine-action/issues/21)
 - [fakeYanss starred duty-machine/duty-machine-action](https://github.com/duty-machine/duty-machine-action)
 - [fakeYanss pushed to master in fakeYanss/duty-machine-action](https://github.com/fakeYanss/duty-machine-action/compare/1a5863db91...fe0f243048)
-- [fakeYanss starred crossoverJie/gjson](https://github.com/crossoverJie/gjson)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
