@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred fakeYanss/leetcode-solution](https://github.com/fakeYanss/leetcode-solution)
+- [fakeYanss starred WhaleFell/SMSBoom](https://github.com/WhaleFell/SMSBoom)
 - [fakeYanss starred UnblockNeteaseMusic/server-rust](https://github.com/UnblockNeteaseMusic/server-rust)
 - [fakeYanss starred trzsz/trzsz](https://github.com/trzsz/trzsz)
 - [fakeYanss starred qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
-- [fakeYanss opened an issue in duty-machine/duty-machine-action](https://github.com/duty-machine/duty-machine-action/issues/21)
-- [fakeYanss starred duty-machine/duty-machine-action](https://github.com/duty-machine/duty-machine-action)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
