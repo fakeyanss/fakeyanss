@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred ml-for-good/automl](https://github.com/ml-for-good/automl)
 - [fakeYanss pushed to master in fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album/compare/bf188fcdf2...c1119fdeeb)
 - [fakeYanss merged a pull request in fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album/pull/1)
 - [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/2e01dd62e8...16b0ba951b)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/1ec0516ad9...36934d022c)
-- [fakeYanss starred OpenEthan/SMSBoom](https://github.com/WhaleFell/SMSBoom)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
