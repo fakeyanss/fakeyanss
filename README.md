@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss starred ml-for-good/automl](https://github.com/ml-for-good/automl)
-- [fakeYanss pushed to master in fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album/compare/bf188fcdf2...c1119fdeeb)
-- [fakeYanss merged a pull request in fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album/pull/1)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/2e01dd62e8...16b0ba951b)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/1ec0516ad9...36934d022c)
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a7540c4d10...b52e91e1d7)
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/81529589b2...a7540c4d10)
+- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/a8ca9f84e2...6aede44d2e)
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/3533ac031e...81529589b2)
+- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/05df12e8df...3533ac031e)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
