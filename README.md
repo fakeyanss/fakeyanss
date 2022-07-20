@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss deleted branch imgbot at fakeYanss/til](https://github.com/)
-- [fakeYanss pushed to master in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/8eb2334b9c...922b56db23)
-- [fakeYanss pushed to source in fakeYanss/blog](https://github.com/fakeYanss/blog/compare/cbe5a85d1f...34c51dc076)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/2477abc6b1...b0852819c8)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/8b12789765...2477abc6b1)
+- [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/73b188190c...cb8308c64a)
+- [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/fdcffe6748...73b188190c)
+- [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/7ced94e677...fdcffe6748)
+- [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/d04da23165...7ced94e677)
+- [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/a08acb4a31...d04da23165)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
