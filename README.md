@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/automl from ml-for-good/automl](https://github.com/fakeYanss/automl)
 - [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/6e923da5e7...407233a47e)
 - [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/f9ad2a030f...6e923da5e7)
 - [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/4bbc6f86bf...f9ad2a030f)
 - [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/bdfa275a03...4bbc6f86bf)
-- [fakeYanss pushed to master in fakeYanss/wiki](https://github.com/fakeYanss/wiki/compare/bf96936744...bdfa275a03)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
