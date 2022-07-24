@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/36934d022c...22ab149ce9)
 - [fakeYanss starred edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
 - [fakeYanss starred nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)
 - [fakeYanss starred dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo)
 - [fakeYanss starred vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)
-- [fakeYanss forked fakeYanss/automl from ml-for-good/automl](https://github.com/fakeYanss/automl)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
