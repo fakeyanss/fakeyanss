@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred toptal/gitignore.io](https://github.com/toptal/gitignore.io)
 - [fakeYanss starred sb2nov/resume](https://github.com/sb2nov/resume)
 - [fakeYanss commented on issue labuladong/fucking-algorithm#762](https://github.com/labuladong/fucking-algorithm/issues/762#issuecomment-1210891051)
 - [fakeYanss commented on issue labuladong/fucking-algorithm#762](https://github.com/labuladong/fucking-algorithm/issues/762#issuecomment-1210879634)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/36934d022c...22ab149ce9)
-- [fakeYanss starred edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
