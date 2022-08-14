@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss edited a wiki page in toptal/gitignore.io](https://github.com/toptal/gitignore.io/wiki/Advanced-Command-Line)
+- [fakeYanss edited a wiki page in toptal/gitignore.io](https://github.com/toptal/gitignore.io/wiki/Advanced-Command-Line)
+- [fakeYanss starred github/gitignore](https://github.com/github/gitignore)
 - [fakeYanss starred toptal/gitignore.io](https://github.com/toptal/gitignore.io)
 - [fakeYanss starred sb2nov/resume](https://github.com/sb2nov/resume)
-- [fakeYanss commented on issue labuladong/fucking-algorithm#762](https://github.com/labuladong/fucking-algorithm/issues/762#issuecomment-1210891051)
-- [fakeYanss commented on issue labuladong/fucking-algorithm#762](https://github.com/labuladong/fucking-algorithm/issues/762#issuecomment-1210879634)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/36934d022c...22ab149ce9)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
