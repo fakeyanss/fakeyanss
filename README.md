@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/22ab149ce9...2d831b6ec2)
+- [fakeYanss starred toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 - [fakeYanss opened an issue in toptal/gitignore.io](https://github.com/toptal/gitignore.io/issues/586)
 - [fakeYanss edited a wiki page in toptal/gitignore.io](https://github.com/toptal/gitignore.io/wiki/Advanced-Command-Line)
 - [fakeYanss edited a wiki page in toptal/gitignore.io](https://github.com/toptal/gitignore.io/wiki/Advanced-Command-Line)
-- [fakeYanss starred github/gitignore](https://github.com/github/gitignore)
-- [fakeYanss starred toptal/gitignore.io](https://github.com/toptal/gitignore.io)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
