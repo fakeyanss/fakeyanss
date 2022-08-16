@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/hello-algorithm from geekxh/hello-algorithm](https://github.com/fakeYanss/hello-algorithm)
+- [fakeYanss starred geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
 - [fakeYanss starred pyenv/pyenv](https://github.com/pyenv/pyenv)
 - [fakeYanss starred syndbg/goenv](https://github.com/syndbg/goenv)
 - [fakeYanss pushed to Simplified in fakeYanss/chinese-copywriting-guidelines](https://github.com/fakeYanss/chinese-copywriting-guidelines/compare/6fd6c146b0...a1cd8ceac5)
-- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/22ab149ce9...2d831b6ec2)
-- [fakeYanss starred toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
