@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred pyenv/pyenv](https://github.com/pyenv/pyenv)
 - [fakeYanss starred syndbg/goenv](https://github.com/syndbg/goenv)
 - [fakeYanss pushed to Simplified in fakeYanss/chinese-copywriting-guidelines](https://github.com/fakeYanss/chinese-copywriting-guidelines/compare/6fd6c146b0...a1cd8ceac5)
 - [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/22ab149ce9...2d831b6ec2)
 - [fakeYanss starred toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-- [fakeYanss opened an issue in toptal/gitignore.io](https://github.com/toptal/gitignore.io/issues/586)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
