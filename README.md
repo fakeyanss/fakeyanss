@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/COLA from alibaba/COLA](https://github.com/fakeYanss/COLA)
+- [fakeYanss starred alibaba/COLA](https://github.com/alibaba/COLA)
 - [fakeYanss forked fakeYanss/notify-server from JS-banana/notify-server](https://github.com/fakeYanss/notify-server)
 - [fakeYanss starred wxpusher/wxpusher-sdk-go](https://github.com/wxpusher/wxpusher-sdk-go)
 - [fakeYanss forked fakeYanss/hello-algorithm from geekxh/hello-algorithm](https://github.com/fakeYanss/hello-algorithm)
-- [fakeYanss starred geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
-- [fakeYanss starred pyenv/pyenv](https://github.com/pyenv/pyenv)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
