@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss commented on issue labuladong/fucking-algorithm#898](https://github.com/labuladong/fucking-algorithm/issues/898#issuecomment-1233055755)
-- [fakeYanss pushed to master in fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job/compare/b35371c3f0...8a620d1614)
-- [fakeYanss starred BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
-- [fakeYanss forked fakeYanss/COLA from alibaba/COLA](https://github.com/fakeYanss/COLA)
-- [fakeYanss starred alibaba/COLA](https://github.com/alibaba/COLA)
+- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/536d82f883...7c016f3b75)
+- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/64fc467df9...536d82f883)
+- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/672c27c98b...bd7fbf76ab)
+- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/edbedbe255...64fc467df9)
+- [fakeYanss pushed to master in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/3964d6fde3...b4dc406788)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
