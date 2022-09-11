@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/leetcode-golang](https://github.com/fakeYanss/leetcode-golang/compare/fb6e950a62...41532d363b)
+- [fakeYanss made fakeYanss/leetcode-golang public](https://github.com/fakeYanss/leetcode-golang)
 - [fakeYanss starred fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album)
 - [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/7977ea96c8...9263fffbe5)
 - [fakeYanss starred thedevsaddam/LeetCode-in-Go](https://github.com/thedevsaddam/LeetCode-in-Go)
-- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/80a83ca07e...a2a5f514a9)
-- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/bd7fbf76ab...80a83ca07e)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
