@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss deleted branch macos-x84 at fakeYanss/dotfiles](https://github.com/)
+- [fakeYanss created a branch macos-x84 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/macos-x84)
+- [fakeYanss deleted branch macos-x84 at fakeYanss/dotfiles](https://github.com/)
+- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/a2a5f514a9...8e922c0c98)
 - [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/0b1fa2137e...f283dc01dd)
-- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/9263fffbe5...0b1fa2137e)
-- [fakeYanss starred fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album)
-- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/7977ea96c8...9263fffbe5)
-- [fakeYanss starred thedevsaddam/LeetCode-in-Go](https://github.com/thedevsaddam/LeetCode-in-Go)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
