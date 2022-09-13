@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/leetcode-golang](https://github.com/fakeYanss/leetcode-golang/compare/1882590800...26f1cfaa50)
-- [fakeYanss pushed to master in fakeYanss/leetcode-golang](https://github.com/fakeYanss/leetcode-golang/compare/a435849c14...1882590800)
-- [fakeYanss pushed to master in fakeYanss/leetcode-golang](https://github.com/fakeYanss/leetcode-golang/compare/965c51fcac...a435849c14)
-- [fakeYanss pushed to master in fakeYanss/leetcode-golang](https://github.com/fakeYanss/leetcode-golang/compare/371a77d387...965c51fcac)
-- [fakeYanss pushed to master in fakeYanss/leetcode-golang](https://github.com/fakeYanss/leetcode-golang/compare/2ca36ed257...371a77d387)
+- [fakeYanss starred fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album)
+- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/7977ea96c8...9263fffbe5)
+- [fakeYanss starred thedevsaddam/LeetCode-in-Go](https://github.com/thedevsaddam/LeetCode-in-Go)
+- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/80a83ca07e...a2a5f514a9)
+- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/bd7fbf76ab...80a83ca07e)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
