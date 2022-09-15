@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss forked fakeYanss/gopl.io from adonovan/gopl.io](https://github.com/fakeYanss/gopl.io)
+- [fakeYanss starred adonovan/gopl.io](https://github.com/adonovan/gopl.io)
 - [fakeYanss starred Tencent/secguide](https://github.com/Tencent/secguide)
 - [fakeYanss deleted branch macos-x84 at fakeYanss/dotfiles](https://github.com/)
 - [fakeYanss created a branch macos-x84 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/macos-x84)
-- [fakeYanss deleted branch macos-x84 at fakeYanss/dotfiles](https://github.com/)
-- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/a2a5f514a9...8e922c0c98)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
