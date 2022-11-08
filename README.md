@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 - [fakeYanss opened an issue in syndbg/goenv](https://github.com/syndbg/goenv/issues/251)
 - [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/422767c11c...8632c4189b)
 - [fakeYanss starred commitizen/cz-cli](https://github.com/commitizen/cz-cli)
 - [fakeYanss starred EndlessCheng/codeforces-go](https://github.com/EndlessCheng/codeforces-go)
-- [fakeYanss starred ronniebasak/JStruct](https://github.com/ronniebasak/JStruct)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
