@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/12e67e70b7...54fea32d48)
 - [fakeYanss starred longyanjiang/todolist](https://github.com/longyanjiang/todolist)
 - [fakeYanss created a branch master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/master)
 - [fakeYanss created a repository fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar//)
 - [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/38f8f8ce61...f11458c059)
-- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/8e922c0c98...38f8f8ce61)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
