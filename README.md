@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/12e67e70b7...54fea32d48)
-- [fakeYanss starred longyanjiang/todolist](https://github.com/longyanjiang/todolist)
-- [fakeYanss created a branch master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/master)
-- [fakeYanss created a repository fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar//)
-- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/38f8f8ce61...f11458c059)
+- [fakeYanss starred bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+- [fakeYanss starred terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim)
+- [fakeYanss starred platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation)
+- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/69a951ebab...38f4b25c5d)
+- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/54fea32d48...69a951ebab)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
