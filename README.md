@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred Amemei/Amemei.github.io](https://github.com/Amemei/Amemei.github.io)
 - [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/38f4b25c5d...2fe08e8135)
 - [fakeYanss starred bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 - [fakeYanss starred terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim)
 - [fakeYanss starred platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation)
-- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/69a951ebab...38f4b25c5d)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
