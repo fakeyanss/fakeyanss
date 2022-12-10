@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred node-webot/webot-example](https://github.com/node-webot/webot-example)
 - [fakeYanss starred vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 - [fakeYanss starred vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 - [fakeYanss starred AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
 - [fakeYanss starred fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album)
-- [fakeYanss starred Amemei/Amemei.github.io](https://github.com/Amemei/Amemei.github.io)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
