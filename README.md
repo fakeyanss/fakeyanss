@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/5d2a4c871d...165f765e81)
 - [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/f11458c059...6efbf785b9)
 - [fakeYanss starred glaciall/ftp-proxy-server](https://github.com/glaciall/ftp-proxy-server)
 - [fakeYanss starred glaciall/jtt808-simulator](https://github.com/glaciall/jtt808-simulator)
 - [fakeYanss starred glaciall/jtt1078-video-server](https://github.com/glaciall/jtt1078-video-server)
-- [fakeYanss starred yezhihao/jt808-server](https://github.com/yezhihao/jt808-server)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
