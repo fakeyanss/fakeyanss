@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss opened a pull request in raycast/extensions](https://github.com/raycast/extensions/pull/4131)
+- [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/08714e1a64...dabcabe5e4)
+- [fakeYanss forked fakeYanss/raycast-extensions from raycast/extensions](https://github.com/fakeYanss/raycast-extensions)
 - [fakeYanss starred raycast/extensions](https://github.com/raycast/extensions)
 - [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/5d2a4c871d...165f765e81)
-- [fakeYanss pushed to macos-x86 in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/f11458c059...6efbf785b9)
-- [fakeYanss starred glaciall/ftp-proxy-server](https://github.com/glaciall/ftp-proxy-server)
-- [fakeYanss starred glaciall/jtt808-simulator](https://github.com/glaciall/jtt808-simulator)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
