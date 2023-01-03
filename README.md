@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev)
+- [fakeYanss starred Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)
 - [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/d667385163...7e18475934)
 - [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/37388170cb...d667385163)
 - [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/dabcabe5e4...37388170cb)
-- [fakeYanss opened a pull request in raycast/extensions](https://github.com/raycast/extensions/pull/4131)
-- [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/08714e1a64...dabcabe5e4)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
