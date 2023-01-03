@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/d667385163...7e18475934)
+- [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/37388170cb...d667385163)
+- [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/dabcabe5e4...37388170cb)
 - [fakeYanss opened a pull request in raycast/extensions](https://github.com/raycast/extensions/pull/4131)
 - [fakeYanss pushed to main in fakeYanss/raycast-extensions](https://github.com/fakeYanss/raycast-extensions/compare/08714e1a64...dabcabe5e4)
-- [fakeYanss forked fakeYanss/raycast-extensions from raycast/extensions](https://github.com/fakeYanss/raycast-extensions)
-- [fakeYanss starred raycast/extensions](https://github.com/raycast/extensions)
-- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/5d2a4c871d...165f765e81)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
