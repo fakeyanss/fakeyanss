@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred tw93/Pake](https://github.com/tw93/Pake)
 - [fakeYanss starred OrangeX4/GitNotes](https://github.com/OrangeX4/GitNotes)
 - [fakeYanss starred zas023/JdBuyer](https://github.com/zas023/JdBuyer)
 - [fakeYanss commented on issue remotely-save/remotely-save#269](https://github.com/remotely-save/remotely-save/issues/269#issuecomment-1375510079)
 - [fakeYanss starred vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-- [fakeYanss starred remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
