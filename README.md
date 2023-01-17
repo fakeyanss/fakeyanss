@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
 - [fakeYanss starred ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
 - [fakeYanss commented on issue tw93/Pake#24](https://github.com/tw93/Pake/issues/24#issuecomment-1383531995)
 - [fakeYanss starred tw93/Pake](https://github.com/tw93/Pake)
 - [fakeYanss starred OrangeX4/GitNotes](https://github.com/OrangeX4/GitNotes)
-- [fakeYanss starred zas023/JdBuyer](https://github.com/zas023/JdBuyer)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
