@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/6c71979b18...18b0e90223)
 - [fakeYanss created a repository mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go//)
 - [fakeYanss created a branch main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/main)
 - [fakeYanss starred google/pprof](https://github.com/google/pprof)
-- [fakeYanss pushed to macos-arm in fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles/compare/368a04ea24...05d3191b99)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
