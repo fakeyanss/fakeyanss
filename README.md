@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss pushed to master in fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar/compare/165f765e81...fca0f5e599)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/b47aa0f6b0...3aa2b46671)
 - [fakeYanss starred hylexus/jt-808-protocol](https://github.com/hylexus/jt-808-protocol)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/5f0c529970...b47aa0f6b0)
 - [fakeYanss starred SmallChi/JT808](https://github.com/SmallChi/JT808)
-- [fakeYanss starred hylexus/jt-framework](https://github.com/hylexus/jt-framework)
 <!-- GITHUB:END -->
 
 ### Latest Blog Posts 📕
