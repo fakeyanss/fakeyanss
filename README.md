@@ -22,6 +22,7 @@
 - [fakeYanss starred codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 <!-- GITHUB:END -->
 
+<!--
 ### Latest Blog Posts 📕
 <!-- BLOG:START -->
 - [docsify 折腾记](https://foreti.me/blog/2021/05/09/docsify-build/)
@@ -30,3 +31,4 @@
 - [Mac从零搭建开发环境](https://foreti.me/blog/2021/03/15/setup-env-on-mac/)
 - [25岁迷思](https://foreti.me/blog/2021/01/09/thinking-at-25-years-old/)
 <!-- BLOG:END -->
+-->
