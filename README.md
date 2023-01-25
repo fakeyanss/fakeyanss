@@ -15,14 +15,14 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/14e70149d9...149b59e2f6)
-- [fakeYanss pushed to master in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/compare/3393eb2e38...1ddda278cc)
-- [fakeYanss merged a pull request in fakeYanss/imgplace](https://github.com/fakeYanss/imgplace/pull/4)
-- [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/7cba096bef...c36fe4f416)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/53a391ebe3...7cba096bef)
+- [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/749507db9e...53a391ebe3)
+- [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/3aa2b46671...749507db9e)
+- [fakeYanss starred rangaofei/SSokit-qmake](https://github.com/rangaofei/SSokit-qmake)
+- [fakeYanss starred codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 <!-- GITHUB:END -->
 
-<!--
+
 ### Latest Blog Posts 📕
 <!-- BLOG:START -->
 - [docsify 折腾记](https://foreti.me/blog/2021/05/09/docsify-build/)
@@ -31,4 +31,3 @@
 - [Mac从零搭建开发环境](https://foreti.me/blog/2021/03/15/setup-env-on-mac/)
 - [25岁迷思](https://foreti.me/blog/2021/01/09/thinking-at-25-years-old/)
 <!-- BLOG:END -->
--->
