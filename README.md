@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/354bd18479...bc0196bade)
 - [fakeYanss starred gedoor/legado](https://github.com/gedoor/legado)
 - [fakeYanss starred hectorqin/reader](https://github.com/hectorqin/reader)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/c36fe4f416...354bd18479)
-- [fakeYanss opened an issue in marcizhu/marcizhu](https://github.com/marcizhu/marcizhu/issues/2585)
 <!-- GITHUB:END -->
 
 
