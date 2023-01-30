@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred bluele/gcache](https://github.com/bluele/gcache)
 - [fakeYanss starred alibaba/easyexcel](https://github.com/alibaba/easyexcel)
 - [fakeYanss starred golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - [fakeYanss starred Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/354bd18479...bc0196bade)
-- [fakeYanss starred gedoor/legado](https://github.com/gedoor/legado)
 <!-- GITHUB:END -->
 
 
