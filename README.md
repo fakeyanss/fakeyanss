@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim)
+- [fakeYanss starred pingcap/talent-plan](https://github.com/pingcap/talent-plan)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/d767c7f9fe...0e54a1b90f)
 - [fakeYanss pushed to main in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/bc0196bade...d767c7f9fe)
 - [fakeYanss starred roylee0704/gron](https://github.com/roylee0704/gron)
-- [fakeYanss starred bluele/gcache](https://github.com/bluele/gcache)
-- [fakeYanss starred alibaba/easyexcel](https://github.com/alibaba/easyexcel)
 <!-- GITHUB:END -->
 
 
