@@ -15,11 +15,11 @@
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [fakeYanss starred go-netty/go-netty](https://github.com/go-netty/go-netty)
 - [fakeYanss pushed to master in fakeYanss/fakeYanss](https://github.com/fakeYanss/fakeYanss/compare/7672f87654...9a076eb601)
 - [fakeYanss starred alacritty/alacritty](https://github.com/alacritty/alacritty)
 - [fakeYanss pushed to main in mess-around/elasticsearch-repository-bos](https://github.com/mess-around/elasticsearch-repository-bos/compare/76a123bd48...15050c3bf9)
 - [fakeYanss pushed to main in mess-around/elasticsearch-repository-bos](https://github.com/mess-around/elasticsearch-repository-bos/compare/9bf918e7be...76a123bd48)
-- [fakeYanss released repository-bos-7.6.2.zip at mess-around/elasticsearch-repository-bos](https://github.com/mess-around/elasticsearch-repository-bos/releases/tag/7.6.2)
 <!-- GITHUB:END -->
 
 
