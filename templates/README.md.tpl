@@ -10,11 +10,6 @@
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
@@ -42,12 +37,7 @@ No activity tracked
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
