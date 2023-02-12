@@ -3,21 +3,9 @@ name: Update README
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "59 3,7,11,15 * * *" # runs at every 4h, 北京时间 11:59-23:59
 
 jobs:
-
-  wakatime:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
 
   markscribe:
     runs-on: ubuntu-latest
