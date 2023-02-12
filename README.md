@@ -21,13 +21,3 @@
 - [fakeYanss pushed to feat/more-msg-support in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/808de4bc2a...f76974a2d6)
 - [fakeYanss pushed to feat/more-msg-support in mess-around/jt808-server-go](https://github.com/mess-around/jt808-server-go/compare/c8da1f37dd...808de4bc2a)
 <!-- GITHUB:END -->
-
-
-### Latest Blog Posts 📕
-<!-- BLOG:START -->
-- [docsify 折腾记](https://foreti.me/blog/2021/05/09/docsify-build/)
-- [北京二年回顾](https://foreti.me/blog/2021/03/29/2-years-in-beijing/)
-- [Java字符串拼接方法](https://foreti.me/blog/2021/03/27/java-string-cancat/)
-- [Mac从零搭建开发环境](https://foreti.me/blog/2021/03/15/setup-env-on-mac/)
-- [25岁迷思](https://foreti.me/blog/2021/01/09/thinking-at-25-years-old/)
-<!-- BLOG:END -->
