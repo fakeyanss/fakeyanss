@@ -10,8 +10,11 @@
 
 ### Weekly development breakdown
 
--- section_start:waka --
--- section_end:waka --
+
+```text
+No activity tracked
+```
+
 
 ### Github stats
 
