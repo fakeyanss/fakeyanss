@@ -3,7 +3,7 @@ name: WakaTime stat
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 18 * * *" # 北京时间02:00
+    - cron: "59 3,7,11,15 * * *" # runs at every 4h, 北京时间 11:59-23:59
 
 jobs:
 
