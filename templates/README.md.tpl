@@ -10,8 +10,8 @@
 
 ### Weekly development breakdown
 
--- section_start:waka --
--- section_end:waka --
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github stats
 
