@@ -48,16 +48,9 @@ Go   2 mins          ███████████████████�
 
 #### 🔨 My recent Pull Requests
 
+- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (today)
 - [逻辑重构合入](https://github.com/fakeYanss/jt808-server-go/pull/1) on [fakeYanss/jt808-server-go](https://github.com/fakeYanss/jt808-server-go) (1 week ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
 - [sync](https://github.com/fakeYanss/xxl-job/pull/1) on [fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job) (2 years ago)
 - [sync](https://github.com/fakeYanss/hexo-theme-hollow/pull/3) on [fakeYanss/hexo-theme-hollow](https://github.com/fakeYanss/hexo-theme-hollow) (2 years ago)
-- [又有新功能了，请查收哦](https://github.com/ch1oechao/hexo-theme-hollow/pull/44) on [ch1oechao/hexo-theme-hollow](https://github.com/ch1oechao/hexo-theme-hollow) (2 years ago)
 
-#### ⭐ Recent Stars
-
-- [fakeYanss/easy-joroutine](https://github.com/fakeYanss/easy-joroutine) - 简单易用的 Java coroutine 实现 (1 day ago)
-- [fakeYanss/leetcode_company_wise_questions](https://github.com/fakeYanss/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium (1 day ago)
-- [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode &amp; GitHub stats in GitHub Profile. (1 day ago)
-- [go-netty/go-netty](https://github.com/go-netty/go-netty) - Extensible network application framework inspired by netty (4 days ago)
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (5 days ago)
