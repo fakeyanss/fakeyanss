@@ -14,12 +14,12 @@
 
 
 ```text
-Other          2 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
-Java           2 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.85 %
-Go             1 hr 28 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-YAML           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Markdown       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-XML            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Java           5 hrs 43 mins   █████████▒░░░░░░░░░░░░░░░   37.74 %
+Other          4 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Go             3 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+YAML           25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+XML            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 
@@ -30,13 +30,13 @@ XML            7 mins          ▒░░░░░░░░░░░░░░░�
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (today)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 days ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 days ago)
 - [fakeYanss/jt808-server-go](https://github.com/fakeYanss/jt808-server-go) - JT/T 808 协议接入服务端，兼容2011/2013/2019多版本 (2 days ago)
 - [fakeYanss/blog](https://github.com/fakeYanss/blog) - blog (2 days ago)
 - [fakeYanss/elasticsearch-repository-bos](https://github.com/fakeYanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (2 days ago)
 - [fakeYanss/imgplace](https://github.com/fakeYanss/imgplace) -  (1 week ago)
-- [fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 months ago)
 - [fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles) - More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
 - [fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album) - add album&amp;photos with Hexo blog (7 months ago)
 
