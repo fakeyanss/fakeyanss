@@ -5,7 +5,8 @@
 - Work: Currently working at [Baidu](https://cloud.baidu.com/) as a backend developer
 - Fun fact: Yet another prosibility
 - Website: [foreti.me](https://foreti.me)
-- Contact me: [Mail:yanshisangc#gmail.com] [Wechat: fakeyanss]
+- Resume: [WIP](https://github.com/fakeYanss/fakeYanss/blob/main/Resume.md)
+- Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
 
 
 ### Weekly development breakdown
@@ -14,6 +15,11 @@
 
 ```text
 Other          2 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
+Java           2 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.85 %
+Go             1 hr 28 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+YAML           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Markdown       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+XML            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 
