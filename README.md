@@ -13,7 +13,7 @@
 
 
 ```text
-Go   2 mins          █████████████████████████   100.00 %
+Other          2 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
 ```
 
 
@@ -24,12 +24,12 @@ Go   2 mins          ███████████████████�
 
 #### 👷 Check out what I'm currently working on
 
-- [mess-around/.github](https://github.com/mess-around/.github) -  (1 day ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
-- [fakeYanss/jt808-server-go](https://github.com/fakeYanss/jt808-server-go) - JT/T 808 协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
-- [fakeYanss/blog](https://github.com/fakeYanss/blog) - blog (1 day ago)
-- [fakeYanss/elasticsearch-repository-bos](https://github.com/fakeYanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (1 day ago)
-- [fakeYanss/imgplace](https://github.com/fakeYanss/imgplace) -  (6 days ago)
+- [mess-around/.github](https://github.com/mess-around/.github) -  (2 days ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 days ago)
+- [fakeYanss/jt808-server-go](https://github.com/fakeYanss/jt808-server-go) - JT/T 808 协议接入服务端，兼容2011/2013/2019多版本 (2 days ago)
+- [fakeYanss/blog](https://github.com/fakeYanss/blog) - blog (2 days ago)
+- [fakeYanss/elasticsearch-repository-bos](https://github.com/fakeYanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (2 days ago)
+- [fakeYanss/imgplace](https://github.com/fakeYanss/imgplace) -  (1 week ago)
 - [fakeYanss/lol-avatar](https://github.com/fakeYanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 months ago)
 - [fakeYanss/dotfiles](https://github.com/fakeYanss/dotfiles) - More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
 - [fakeYanss/Hexo-Album](https://github.com/fakeYanss/Hexo-Album) - add album&amp;photos with Hexo blog (7 months ago)
@@ -44,11 +44,11 @@ Go   2 mins          ███████████████████�
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeYanss/elasticsearch-repository-bos](https://github.com/fakeYanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeYanss/elasticsearch-repository-bos/releases/tag/7.6.2), 5 days ago) - Elasticsearch基于BOS的快照与恢复
+- [fakeYanss/elasticsearch-repository-bos](https://github.com/fakeYanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeYanss/elasticsearch-repository-bos/releases/tag/7.6.2), 6 days ago) - Elasticsearch基于BOS的快照与恢复
 
 #### 🔨 My recent Pull Requests
 
-- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (today)
+- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (1 day ago)
 - [逻辑重构合入](https://github.com/fakeYanss/jt808-server-go/pull/1) on [fakeYanss/jt808-server-go](https://github.com/fakeYanss/jt808-server-go) (1 week ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
 - [sync](https://github.com/fakeYanss/xxl-job/pull/1) on [fakeYanss/xxl-job](https://github.com/fakeYanss/xxl-job) (2 years ago)
