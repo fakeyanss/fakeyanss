@@ -5,7 +5,8 @@
 - Work: Currently working at [Baidu](https://cloud.baidu.com/) as a backend developer
 - Fun fact: Yet another prosibility
 - Website: [foreti.me](https://foreti.me)
-- Contact me: [Mail:yanshisangc#gmail.com] [Wechat: fakeyanss]
+- Resume: [中文](https://github.com/fakeYanss/fakeYanss/blob/main/Resume.md)
+- Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
 
 
 ### Weekly development breakdown
