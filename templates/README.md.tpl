@@ -1,13 +1,13 @@
 ## Hey there! I'm fakeyanss. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### About me
+
 - Education: Software engineering graduate from [HUST](https://www.hust.edu.cn/)
 - Work: Currently working at [Baidu](https://cloud.baidu.com/) as a backend developer
 - Fun fact: Yet another prosibility
 - Website: [foreti.me](https://foreti.me)
-- Resume: [WIP](https://github.com/fakeYanss/fakeYanss/blob/main/Resume.md)
+- Resume: [WIP](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
 - Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
-
 
 ### Weekly development breakdown
 
@@ -48,3 +48,7 @@ YAML           26 mins         ▒░░░░░░░░░░░░░░░�
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
