@@ -19,3 +19,4 @@ jobs:
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
           LANG_COUNT: 5
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
