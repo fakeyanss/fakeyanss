@@ -14,12 +14,12 @@
 
 
 ```text
-Go             11 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   38.03 %
-Java           9 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.54 %
-Other          5 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Markdown       2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-XML            1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-YAML           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Go             11 hrs 40 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.03 %
+Java           9 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.54 %
+Other          5 hrs 8 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.74 %
+Markdown       2 hrs 25 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.88 %
+XML            1 hr 10 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.80 %
+YAML           26 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.46 %
 ```
 
 
@@ -62,8 +62,8 @@ YAML           26 mins         ▒░░░░░░░░░░░░░░░�
 
 #### ⭐ Recent Stars
 
+- [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (today)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database (2 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 days ago)
 - [fakeyanss/easy-joroutine](https://github.com/fakeyanss/easy-joroutine) - 简单易用的 Java coroutine 实现 (1 week ago)
 - [fakeyanss/leetcode_company_wise_questions](https://github.com/fakeyanss/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium (1 week ago)
-- [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode &amp; GitHub stats in GitHub Profile. (1 week ago)
