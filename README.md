@@ -14,12 +14,12 @@
 
 
 ```text
-Go             11 hrs 38 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.88 %
-Java           9 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.52 %
-Other          5 hrs 8 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.72 %
-Markdown       2 hrs 28 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.07 %
-XML            1 hr 10 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.80 %
-YAML           26 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.45 %
+Go           10 hrs 11 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.46 %
+Java         7 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.09 %
+Other        2 hrs 53 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.03 %
+Markdown     2 hrs 15 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.43 %
+XML          1 hr 2 mins     ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.36 %
+Makefile     11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.83 %
 ```
 
 
@@ -30,9 +30,9 @@ YAML           26 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 days ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (4 days ago)
-- [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (5 days ago)
+- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (3 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (5 days ago)
+- [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (6 days ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 week ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 week ago)
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (1 week ago)
@@ -54,7 +54,7 @@ YAML           26 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
+- [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 days ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (1 week ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 weeks ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
@@ -62,8 +62,8 @@ YAML           26 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 #### ⭐ Recent Stars
 
-- [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (1 day ago)
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database (3 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
+- [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (2 days ago)
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database (4 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [fakeyanss/easy-joroutine](https://github.com/fakeyanss/easy-joroutine) - 简单易用的 Java coroutine 实现 (1 week ago)
 - [fakeyanss/leetcode_company_wise_questions](https://github.com/fakeyanss/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium (1 week ago)
