@@ -62,8 +62,8 @@ Other        17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 #### ⭐ Recent Stars
 
+- [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE (today)
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (3 days ago)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database (5 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [fakeyanss/easy-joroutine](https://github.com/fakeyanss/easy-joroutine) - 简单易用的 Java coroutine 实现 (1 week ago)
-- [fakeyanss/leetcode_company_wise_questions](https://github.com/fakeyanss/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium (1 week ago)
