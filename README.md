@@ -62,8 +62,8 @@ Other            21 mins         -------------------------   01.02 %
 
 #### ⭐ Recent Stars
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking. (today)
 - [giskook/vav-ms](https://github.com/giskook/vav-ms) - jt1078 音视频服务器 (today)
 - [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE (3 days ago)
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (6 days ago)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database (1 week ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
