@@ -30,23 +30,24 @@ SQL              16 mins         -------------------------   00.75 %
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 week ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (1 week ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
+- [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (2 weeks ago)
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (2 weeks ago)
-- [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
 - [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (7 months ago)
 
 #### 🌱 My latest projects
 
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start.
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now
 - [fakeyanss/easy-joroutine](https://github.com/fakeyanss/easy-joroutine) - 简单易用的 Java coroutine 实现
-- [fakeyanss/CapacityAwareQueue-Redis](https://github.com/fakeyanss/CapacityAwareQueue-Redis) - 一个轻量级、容量感知的Redis消息队列
 
 #### 🔭 Latest releases I've contributed to
 
