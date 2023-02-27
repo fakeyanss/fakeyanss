@@ -63,8 +63,8 @@ SQL              16 mins         -------------------------   00.65 %
 
 #### ⭐ Recent Stars
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art! (today)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking. (2 days ago)
 - [giskook/vav-ms](https://github.com/giskook/vav-ms) - jt1078 音视频服务器 (2 days ago)
 - [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE (5 days ago)
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (1 week ago)
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database (1 week ago)
