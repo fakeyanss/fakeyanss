@@ -30,9 +30,9 @@ SQL              16 mins         -------------------------   00.65 %
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 week ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (1 week ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (2 weeks ago)
@@ -55,11 +55,11 @@ SQL              16 mins         -------------------------   00.65 %
 
 #### 🔨 My recent Pull Requests
 
+- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (2 weeks ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
-- [sync](https://github.com/fakeyanss/xxl-job/pull/1) on [fakeyanss/xxl-job](https://github.com/fakeyanss/xxl-job) (2 years ago)
 
 #### ⭐ Recent Stars
 
