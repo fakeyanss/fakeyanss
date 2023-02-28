@@ -30,8 +30,8 @@ Other            28 mins         -------------------------   00.98 %
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (2 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (1 week ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
