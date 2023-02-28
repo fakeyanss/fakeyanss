@@ -14,12 +14,12 @@
 
 
 ```text
-Lua              25 hrs 25 mins  >>>>>>>>>>>>>>>----------   61.96 %
-Java             8 hrs 31 mins   >>>>>--------------------   20.78 %
-XML              4 hrs           >>-----------------------   09.76 %
-YAML             1 hr 14 mins    >------------------------   03.01 %
-Other            22 mins         -------------------------   00.90 %
-SQL              16 mins         -------------------------   00.65 %
+Lua              26 hrs 12 mins  >>>>>>>>>>>>>------------   53.81 %
+Java             12 hrs 10 mins  >>>>>>-------------------   24.98 %
+XML              4 hrs           >>-----------------------   08.22 %
+Bash             1 hr 56 mins    >------------------------   03.98 %
+YAML             1 hr 38 mins    >------------------------   03.35 %
+Other            28 mins         -------------------------   00.98 %
 ```
 
 
@@ -30,8 +30,8 @@ SQL              16 mins         -------------------------   00.65 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (2 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (1 week ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
@@ -55,7 +55,7 @@ SQL              16 mins         -------------------------   00.65 %
 
 #### 🔨 My recent Pull Requests
 
-- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (2 weeks ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
@@ -63,8 +63,8 @@ SQL              16 mins         -------------------------   00.65 %
 
 #### ⭐ Recent Stars
 
-- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art! (today)
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking. (2 days ago)
-- [giskook/vav-ms](https://github.com/giskook/vav-ms) - jt1078 音视频服务器 (2 days ago)
-- [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE (5 days ago)
-- [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile &#43; Flomo &#43; Rss Reader (1 week ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art! (1 day ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking. (3 days ago)
+- [giskook/vav-ms](https://github.com/giskook/vav-ms) - jt1078 音视频服务器 (3 days ago)
+- [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE (6 days ago)
