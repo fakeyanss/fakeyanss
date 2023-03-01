@@ -30,7 +30,7 @@ YAML             1 hr 40 mins    >------------------------   03.13 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (2 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 weeks ago)
