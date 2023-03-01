@@ -14,12 +14,12 @@
 
 
 ```text
-Lua              26 hrs 12 mins  >>>>>>>>>>>>>------------   53.81 %
-Java             12 hrs 10 mins  >>>>>>-------------------   24.98 %
-XML              4 hrs           >>-----------------------   08.22 %
-Bash             1 hr 56 mins    >------------------------   03.98 %
-YAML             1 hr 38 mins    >------------------------   03.35 %
-Other            28 mins         -------------------------   00.98 %
+Lua              23 hrs 2 mins   >>>>>>>>>>>--------------   43.10 %
+Java             13 hrs 48 mins  >>>>>>-------------------   25.83 %
+XML              4 hrs           >>-----------------------   07.49 %
+Bash             3 hrs 36 mins   >>-----------------------   06.74 %
+Go               3 hrs 5 mins    >------------------------   05.78 %
+YAML             1 hr 40 mins    >------------------------   03.13 %
 ```
 
 
@@ -30,10 +30,10 @@ Other            28 mins         -------------------------   00.98 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (2 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
-- [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (1 week ago)
+- [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 weeks ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (2 weeks ago)
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (2 weeks ago)
@@ -51,11 +51,11 @@ Other            28 mins         -------------------------   00.98 %
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 2 weeks ago) - Elasticsearch基于BOS的快照与恢复
+- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 3 weeks ago) - Elasticsearch基于BOS的快照与恢复
 
 #### 🔨 My recent Pull Requests
 
-- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
+- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (2 weeks ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
@@ -63,8 +63,8 @@ Other            28 mins         -------------------------   00.98 %
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art! (1 day ago)
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking. (3 days ago)
-- [giskook/vav-ms](https://github.com/giskook/vav-ms) - jt1078 音视频服务器 (3 days ago)
-- [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE (6 days ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art! (2 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking. (4 days ago)
+- [giskook/vav-ms](https://github.com/giskook/vav-ms) - jt1078 音视频服务器 (4 days ago)
