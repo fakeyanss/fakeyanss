@@ -14,12 +14,12 @@
 
 
 ```text
-Lua              20 hrs 8 mins   >>>>>>>>>----------------   37.87 %
-Java             11 hrs 49 mins  >>>>>>-------------------   22.24 %
-Bash             5 hrs 16 mins   >>-----------------------   09.90 %
-XML              4 hrs 44 mins   >>-----------------------   08.91 %
-Go               4 hrs 30 mins   >>-----------------------   08.47 %
-YAML             1 hr 14 mins    >------------------------   02.34 %
+Lua              16 hrs 1 min    >>>>>>>>-----------------   30.95 %
+Java             11 hrs 15 mins  >>>>>--------------------   21.74 %
+Go               8 hrs 48 mins   >>>>---------------------   17.00 %
+Bash             5 hrs 14 mins   >>>----------------------   10.13 %
+XML              3 hrs 50 mins   >>-----------------------   07.43 %
+Makefile         1 hr 10 mins    >------------------------   02.27 %
 ```
 
 
@@ -30,8 +30,8 @@ YAML             1 hr 14 mins    >------------------------   02.34 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (3 days ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (2 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (4 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 weeks ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
@@ -55,7 +55,7 @@ YAML             1 hr 14 mins    >------------------------   02.34 %
 
 #### 🔨 My recent Pull Requests
 
-- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 days ago)
+- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 weeks ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (2 weeks ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
@@ -63,8 +63,8 @@ YAML             1 hr 14 mins    >------------------------   02.34 %
 
 #### ⭐ Recent Stars
 
-- [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码 (today)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (today)
-- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (today)
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码 (1 day ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 day ago)
+- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (1 day ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (2 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
