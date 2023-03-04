@@ -30,16 +30,16 @@ Makefile       1 hr 10 mins    >------------------------   02.64 %
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/til](https://github.com/fakeyanss/til) -  (today)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (today)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (5 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 weeks ago)
-- [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (2 weeks ago)
+- [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
-- [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -63,8 +63,8 @@ Makefile       1 hr 10 mins    >------------------------   02.64 %
 
 #### ⭐ Recent Stars
 
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (today)
 - [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码 (2 days ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 days ago)
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (2 days ago)
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
