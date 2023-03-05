@@ -30,9 +30,9 @@ Makefile       1 hr 22 mins    >------------------------   02.54 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/til](https://github.com/fakeyanss/til) -  (1 day ago)
+- [fakeyanss/til](https://github.com/fakeyanss/til) -  (today)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 day ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (6 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
 - [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 weeks ago)
