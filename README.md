@@ -63,8 +63,8 @@ Makefile       1 hr 22 mins    >------------------------   02.54 %
 
 #### ⭐ Recent Stars
 
+- [imbacraft/dusk.nvim](https://github.com/imbacraft/dusk.nvim) - Dusk is a blazing fast Lua config suited for Full Stack Java development. (today)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (1 day ago)
 - [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码 (3 days ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 days ago)
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (3 days ago)
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (4 days ago)
