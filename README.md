@@ -14,12 +14,12 @@
 
 
 ```text
-Go             17 hrs 31 mins  >>>>>>>>>----------------   34.70 %
-Java           11 hrs 4 mins   >>>>>--------------------   21.92 %
-Lua            7 hrs 50 mins   >>>>---------------------   15.52 %
-Bash           5 hrs 10 mins   >>>----------------------   10.26 %
-XML            1 hr 28 mins    >------------------------   02.93 %
-Makefile       1 hr 22 mins    >------------------------   02.71 %
+Go             19 hrs 1 min    >>>>>>>>>>---------------   40.20 %
+Java           10 hrs 37 mins  >>>>>>-------------------   22.45 %
+Lua            6 hrs 48 mins   >>>>---------------------   14.37 %
+Bash           3 hrs 8 mins    >>-----------------------   06.62 %
+XML            1 hr 28 mins    >------------------------   03.13 %
+Makefile       1 hr 22 mins    >------------------------   02.89 %
 ```
 
 
@@ -30,16 +30,11 @@ Makefile       1 hr 22 mins    >------------------------   02.71 %
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (today)
-- [fakeyanss/til](https://github.com/fakeyanss/til) -  (1 day ago)
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (2 days ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 week ago)
+- [fakeyanss/til](https://github.com/fakeyanss/til) -  (2 days ago)
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (3 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
-- [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now (2 weeks ago)
-- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (3 weeks ago)
-- [mess-around/.github](https://github.com/mess-around/.github) -  (3 weeks ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - More than dotfiles. Manager your dotfiles and custom function. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -55,16 +50,21 @@ Makefile       1 hr 22 mins    >------------------------   02.71 %
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 weeks ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (3 weeks ago)
-- [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 weeks ago)
+- [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (2 months ago)
+- [sync](https://github.com/fakeyanss/xxl-job/pull/1) on [fakeyanss/xxl-job](https://github.com/fakeyanss/xxl-job) (2 years ago)
+- [sync](https://github.com/fakeyanss/hexo-theme-hollow/pull/3) on [fakeyanss/hexo-theme-hollow](https://github.com/fakeyanss/hexo-theme-hollow) (2 years ago)
+- [又有新功能了，请查收哦](https://github.com/ch1oechao/hexo-theme-hollow/pull/44) on [ch1oechao/hexo-theme-hollow](https://github.com/ch1oechao/hexo-theme-hollow) (2 years ago)
+- [sync](https://github.com/fakeyanss/hexo-theme-hollow/pull/2) on [fakeyanss/hexo-theme-hollow](https://github.com/fakeyanss/hexo-theme-hollow) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [imbacraft/dusk.nvim](https://github.com/imbacraft/dusk.nvim) - Dusk is a blazing fast Lua config suited for Full Stack Java development. (1 day ago)
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (2 days ago)
-- [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码 (4 days ago)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (4 days ago)
-- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (4 days ago)
+- [imbacraft/dusk.nvim](https://github.com/imbacraft/dusk.nvim) - Dusk is a blazing fast Lua config suited for Full Stack Java development. (2 days ago)
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (3 days ago)
+- [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码 (5 days ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (5 days ago)
+- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture (5 days ago)
