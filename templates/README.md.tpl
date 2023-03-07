@@ -29,7 +29,7 @@ Makefile       1 hr 22 mins    >------------------------   02.71 %
 ![FakeYanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&show_icons=true&theme=transparent)
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -44,7 +44,7 @@ Makefile       1 hr 22 mins    >------------------------   02.71 %
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
