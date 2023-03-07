@@ -63,8 +63,8 @@ Makefile       1 hr 22 mins    >------------------------   02.89 %
 
 #### ⭐ Recent Stars
 
+- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (today)
 - [carlescere/scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy. (today)
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (today)
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！ (today)
 - [imbacraft/dusk.nvim](https://github.com/imbacraft/dusk.nvim) - Dusk is a blazing fast Lua config suited for Full Stack Java development. (2 days ago)
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (3 days ago)
