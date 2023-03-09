@@ -14,12 +14,12 @@
 
 
 ```text
-Go               17 hrs 43 mins  >>>>>>>>>>---------------   40.90 %
-Java             10 hrs 26 mins  >>>>>>-------------------   24.08 %
-Lua              6 hrs 24 mins   >>>>---------------------   14.80 %
-XML              1 hr 45 mins    >------------------------   04.06 %
-Bash             1 hr 39 mins    >------------------------   03.83 %
-Makefile         1 hr 30 mins    >------------------------   03.49 %
+Go               16 hrs 56 mins  >>>>>>>>>>>--------------   42.06 %
+Java             12 hrs 44 mins  >>>>>>>>-----------------   31.64 %
+Lua              5 hrs 16 mins   >>>----------------------   13.10 %
+YAML             1 hr 22 mins    >------------------------   03.41 %
+XML              59 mins         >------------------------   02.47 %
+Markdown         47 mins         -------------------------   01.98 %
 ```
 
 
@@ -30,10 +30,10 @@ Makefile         1 hr 30 mins    >------------------------   03.49 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
-- [fakeyanss/til](https://github.com/fakeyanss/til) -  (3 days ago)
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (4 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (2 days ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (2 days ago)
+- [fakeyanss/til](https://github.com/fakeyanss/til) -  (4 days ago)
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (5 days ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -50,9 +50,9 @@ Makefile         1 hr 30 mins    >------------------------   03.49 %
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
+- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
-- [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 weeks ago)
+- [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (3 weeks ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (2 months ago)
@@ -63,8 +63,8 @@ Makefile         1 hr 30 mins    >------------------------   03.49 %
 
 #### ⭐ Recent Stars
 
-- [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (1 day ago)
-- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (1 day ago)
-- [carlescere/scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy. (1 day ago)
-- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (1 day ago)
-- [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！ (1 day ago)
+- [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (2 days ago)
+- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (2 days ago)
+- [carlescere/scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy. (2 days ago)
+- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (2 days ago)
+- [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！ (2 days ago)
