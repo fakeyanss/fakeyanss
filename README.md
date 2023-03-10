@@ -30,11 +30,11 @@ JSON             39 mins         -------------------------   01.72 %
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (today)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (3 days ago)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (3 days ago)
 - [fakeyanss/til](https://github.com/fakeyanss/til) -  (5 days ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (6 days ago)
-- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
