@@ -63,8 +63,8 @@ XML              20 mins         -------------------------   00.91 %
 
 #### ⭐ Recent Stars
 
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
+- [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (today)
+- [fakeyanss/zelda-botw](https://github.com/fakeyanss/zelda-botw) - A online map of The Legend of Zelda: Breath of the Wild (today)
 - [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (4 days ago)
 - [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (4 days ago)
-- [carlescere/scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy. (4 days ago)
-- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (4 days ago)
-- [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！ (4 days ago)
