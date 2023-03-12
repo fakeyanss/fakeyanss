@@ -14,12 +14,12 @@
 
 
 ```text
-Go               16 hrs 44 mins  >>>>>>>>>>>--------------   43.57 %
-Java             12 hrs 33 mins  >>>>>>>>-----------------   32.67 %
-Lua              4 hrs 34 mins   >>>----------------------   11.90 %
-Markdown         1 hr 45 mins    >------------------------   04.56 %
-YAML             1 hr 12 mins    >------------------------   03.14 %
-XML              20 mins         -------------------------   00.91 %
+Java             12 hrs 21 mins  >>>>>>>>>>---------------   41.31 %
+Go               10 hrs 1 min    >>>>>>>>-----------------   33.50 %
+Markdown         3 hrs 23 mins   >>>----------------------   11.34 %
+Lua              2 hrs 21 mins   >>-----------------------   07.86 %
+YAML             35 mins         -------------------------   01.98 %
+XML              20 mins         -------------------------   01.12 %
 ```
 
 
@@ -30,11 +30,11 @@ XML              20 mins         -------------------------   00.91 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 day ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (4 days ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (4 days ago)
-- [fakeyanss/til](https://github.com/fakeyanss/til) -  (6 days ago)
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 week ago)
+- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 days ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (4 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (5 days ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (5 days ago)
+- [fakeyanss/til](https://github.com/fakeyanss/til) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -50,7 +50,7 @@ XML              20 mins         -------------------------   00.91 %
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
+- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 days ago)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
 - [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (3 weeks ago)
@@ -63,8 +63,8 @@ XML              20 mins         -------------------------   00.91 %
 
 #### ⭐ Recent Stars
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
-- [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (today)
-- [fakeyanss/zelda-botw](https://github.com/fakeyanss/zelda-botw) - A online map of The Legend of Zelda: Breath of the Wild (today)
-- [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (4 days ago)
-- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (4 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
+- [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (1 day ago)
+- [fakeyanss/zelda-botw](https://github.com/fakeyanss/zelda-botw) - A online map of The Legend of Zelda: Breath of the Wild (1 day ago)
+- [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (5 days ago)
+- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (5 days ago)
