@@ -14,12 +14,12 @@
 
 
 ```text
-Java             12 hrs 21 mins  >>>>>>>>>>---------------   41.31 %
-Go               10 hrs 1 min    >>>>>>>>-----------------   33.50 %
-Markdown         3 hrs 23 mins   >>>----------------------   11.34 %
-Lua              2 hrs 21 mins   >>-----------------------   07.86 %
-YAML             35 mins         -------------------------   01.98 %
-XML              20 mins         -------------------------   01.12 %
+Java             12 hrs 2 mins   >>>>>>>>>>>--------------   43.21 %
+Go               9 hrs 55 mins   >>>>>>>>>----------------   35.57 %
+Markdown         3 hrs 20 mins   >>>----------------------   11.98 %
+Lua              49 mins         >------------------------   02.99 %
+YAML             35 mins         >------------------------   02.13 %
+XML              20 mins         -------------------------   01.20 %
 ```
 
 
@@ -30,10 +30,10 @@ XML              20 mins         -------------------------   01.12 %
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 days ago)
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (4 days ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (5 days ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (5 days ago)
+- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (3 days ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (5 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (6 days ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (6 days ago)
 - [fakeyanss/til](https://github.com/fakeyanss/til) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -50,10 +50,10 @@ XML              20 mins         -------------------------   01.12 %
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 days ago)
-- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
+- [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (6 days ago)
+- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 weeks ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 weeks ago)
-- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (3 weeks ago)
+- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (4 weeks ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (2 months ago)
 - [sync](https://github.com/fakeyanss/xxl-job/pull/1) on [fakeyanss/xxl-job](https://github.com/fakeyanss/xxl-job) (2 years ago)
@@ -63,8 +63,8 @@ XML              20 mins         -------------------------   01.12 %
 
 #### ⭐ Recent Stars
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
-- [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (1 day ago)
-- [fakeyanss/zelda-botw](https://github.com/fakeyanss/zelda-botw) - A online map of The Legend of Zelda: Breath of the Wild (1 day ago)
-- [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (5 days ago)
-- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (5 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 （部标）协议接入服务端，兼容2011/2013/2019多版本 (2 days ago)
+- [fakeyanss/Hexo-Album](https://github.com/fakeyanss/Hexo-Album) - add album&amp;photos with Hexo blog (2 days ago)
+- [fakeyanss/zelda-botw](https://github.com/fakeyanss/zelda-botw) - A online map of The Legend of Zelda: Breath of the Wild (2 days ago)
+- [MrCoderStack/SpringBootDemo](https://github.com/MrCoderStack/SpringBootDemo) - 本项目基于springboot最新版2.1.3RELEASE 收集记录学习spring的点点滴滴，通过每一个小demo，一步步进阶，逐步完善。 (6 days ago)
+- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim (6 days ago)
