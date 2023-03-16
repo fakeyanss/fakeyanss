@@ -9,6 +9,8 @@
 - Resume: [WIP](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
 - Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
 
+<!--
+```
 ### Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -23,6 +25,8 @@ expect      9 mins          -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
+```
+-->
 
 ### Github stats
 
