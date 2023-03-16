@@ -63,8 +63,8 @@ expect      9 mins          -------------------------   00.89 %
 
 #### ⭐ Recent Stars
 
+- [kaich/Yuedu](https://github.com/kaich/Yuedu) - 阅读  -  iOS版本 (today)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 day ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 day ago)
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复 (1 day ago)
 - [zhoufwind/palo-deploy-k8s](https://github.com/zhoufwind/palo-deploy-k8s) - 使用K8S部署Apache Doris (incubating)（原百度palo） (1 day ago)
-- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 (1 day ago)
