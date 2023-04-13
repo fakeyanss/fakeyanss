@@ -2,6 +2,8 @@ name: Update README
 
 on:
   workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: "1 4,8,12,16 * * *" # runs at every 4h, 北京时间 12:01-00:01
   workflow_run:
     workflows:
       - "WakaTime stat"
