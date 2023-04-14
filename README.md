@@ -22,9 +22,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 day ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (2 days ago)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 week ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 week ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (2 weeks ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 weeks ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 month ago)
 
@@ -44,19 +44,19 @@
 
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 weeks ago)
 - [[feat] support 8103](https://github.com/fakeyanss/jt808-server-go/pull/10) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 weeks ago)
-- [Feat/device args](https://github.com/fakeyanss/jt808-server-go/pull/8) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 weeks ago)
+- [Feat/device args](https://github.com/fakeyanss/jt808-server-go/pull/8) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 month ago)
-- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (1 month ago)
+- [[feat] support cancel job.](https://github.com/roylee0704/gron/pull/16) on [roylee0704/gron](https://github.com/roylee0704/gron) (2 months ago)
 - [逻辑重构合入](https://github.com/fakeyanss/jt808-server-go/pull/1) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 months ago)
 - [[feat][date-format-converter] support convert unix timestamp to ISO date string.](https://github.com/raycast/extensions/pull/4131) on [raycast/extensions](https://github.com/raycast/extensions) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (today)
-- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711, relay, cluster, record, HTTP Notify/API/UI. 直播 (today)
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 day ago)
+- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711, relay, cluster, record, HTTP Notify/API/UI. 直播 (1 day ago)
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25&#43; independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort (1 week ago)
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline! (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
