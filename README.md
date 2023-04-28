@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [QiuChenly/QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载 (today)
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手 (1 day ago)
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) -  (1 day ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [imfuxiao/Hamster](https://github.com/imfuxiao/Hamster) - librime for iOS App (1 week ago)
-- [vesoft-inc/nebula-studio](https://github.com/vesoft-inc/nebula-studio) - NebulaGraph Web GUI Tools (1 week ago)
