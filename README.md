@@ -23,7 +23,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (3 weeks ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (3 weeks ago)
+- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (4 weeks ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 month ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (1 month ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 month ago)
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [QiuChenly/QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载 (5 days ago)
-- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手 (6 days ago)
-- [LawRefBook/Laws](https://github.com/LawRefBook/Laws) -  (6 days ago)
+- [QiuChenly/QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载 (6 days ago)
+- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手 (1 week ago)
+- [LawRefBook/Laws](https://github.com/LawRefBook/Laws) -  (1 week ago)
 - [NightsWatchGames/celeste](https://github.com/NightsWatchGames/celeste) - Celeste classic platformer game made with bevy engine. (1 week ago)
 - [imfuxiao/Hamster](https://github.com/imfuxiao/Hamster) - librime for iOS App (2 weeks ago)
