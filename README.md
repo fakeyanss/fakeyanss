@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 week ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 month ago)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (1 month ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (2 months ago)
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (today)
 - [vesoft-inc/nebula-operator](https://github.com/vesoft-inc/nebula-operator) - Operation utilities for Nebula Graph (6 days ago)
 - [cszach/cszach](https://github.com/cszach/cszach) - My GitHub Profile README :sunglasses: (2 weeks ago)
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。 (3 weeks ago)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (3 weeks ago)
-- [QiuChenly/QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载 (1 month ago)
