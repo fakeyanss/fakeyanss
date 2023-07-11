@@ -23,8 +23,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 week ago)
-- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (1 week ago)
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (2 months ago)
+- [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (3 months ago)
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (3 months ago)
 - [mess-around/.github](https://github.com/mess-around/.github) -  (3 months ago)
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [RTCFoundation/database-learning](https://github.com/RTCFoundation/database-learning) - 数据库/存储学习路径推荐 (today)
+- [RTCFoundation/database-learning](https://github.com/RTCFoundation/database-learning) - 数据库/存储学习路径推荐 (1 day ago)
 - [exjam/rose-offline-client](https://github.com/exjam/rose-offline-client) - An open source ROSE Online client written in Rust (1 week ago)
 - [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs. (2 weeks ago)
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (2 weeks ago)
