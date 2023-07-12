@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (today)
 - [RTCFoundation/database-learning](https://github.com/RTCFoundation/database-learning) - 数据库/存储学习路径推荐 (2 days ago)
 - [exjam/rose-offline-client](https://github.com/exjam/rose-offline-client) - An open source ROSE Online client written in Rust (2 weeks ago)
 - [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs. (2 weeks ago)
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (2 weeks ago)
-- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023) (2 weeks ago)
