@@ -22,19 +22,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/graft](https://github.com/fakeyanss/graft) - Golang implementation of the Raft consensus protocol (today)
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator. (1 day ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (2 weeks ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 weeks ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (3 months ago)
-- [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start. (3 months ago)
 
 #### 🌱 My latest projects
 
+- [fakeyanss/graft](https://github.com/fakeyanss/graft) - Golang implementation of the Raft consensus protocol
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator.
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start.
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本
-- [fakeyanss/lol-avatar](https://github.com/fakeyanss/lol-avatar) - 英雄联盟系统头像，S1 ~ now
 
 #### 🔭 Latest releases I've contributed to
 
