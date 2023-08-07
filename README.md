@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 5 months ago) - Elasticsearch基于BOS的快照与恢复
+- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 6 months ago) - Elasticsearch基于BOS的快照与恢复
 
 #### 🔨 My recent Pull Requests
 
@@ -57,6 +57,6 @@
 
 - [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator (3 weeks ago)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (3 weeks ago)
-- [RTCFoundation/database-learning](https://github.com/RTCFoundation/database-learning) - 数据库/存储学习路径推荐 (3 weeks ago)
+- [RTCFoundation/database-learning](https://github.com/RTCFoundation/database-learning) - 数据库/存储学习路径推荐 (4 weeks ago)
 - [exjam/rose-offline-client](https://github.com/exjam/rose-offline-client) - An open source ROSE Online client written in Rust (1 month ago)
 - [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs. (1 month ago)
