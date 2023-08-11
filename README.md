@@ -47,7 +47,7 @@
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 months ago)
 - [[feat] support 8103](https://github.com/fakeyanss/jt808-server-go/pull/10) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 months ago)
 - [Feat/device args](https://github.com/fakeyanss/jt808-server-go/pull/8) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 months ago)
-- [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 months ago)
+- [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 months ago)
 - [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 months ago)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 months ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 months ago)
@@ -56,7 +56,7 @@
 #### ⭐ Recent Stars
 
 - [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator (3 weeks ago)
-- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (4 weeks ago)
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (1 month ago)
 - [RTCFoundation/database-learning](https://github.com/RTCFoundation/database-learning) - 数据库/存储学习路径推荐 (1 month ago)
 - [exjam/rose-offline-client](https://github.com/exjam/rose-offline-client) - An open source ROSE Online client written in Rust (1 month ago)
 - [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs. (1 month ago)
