@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 month ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
 - [fakeyanss/simple-raft-go](https://github.com/fakeyanss/simple-raft-go) - Golang implementation of the Raft consensus protocol (1 month ago)
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator. (1 month ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 months ago)
