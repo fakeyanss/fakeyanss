@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [scalaenv/scalaenv](https://github.com/scalaenv/scalaenv) - Groom your app&#39;s Scala environment with scalaenv like rbenv :). Support offered for all official versions, including dotty and scala3! (today)
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (today)
 - [shawwwn/Gole](https://github.com/shawwwn/Gole) - A p2p hole punching/tunneling tool written in Go. (1 week ago)
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS (1 week ago)
 - [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator (1 month ago)
-- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (1 month ago)
