@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 (2 days ago)
-- [scalaenv/scalaenv](https://github.com/scalaenv/scalaenv) - Groom your app&#39;s Scala environment with scalaenv like rbenv :). Support offered for all official versions, including dotty and scala3! (5 days ago)
-- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (5 days ago)
+- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 (3 days ago)
+- [scalaenv/scalaenv](https://github.com/scalaenv/scalaenv) - Groom your app&#39;s Scala environment with scalaenv like rbenv :). Support offered for all official versions, including dotty and scala3! (6 days ago)
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (6 days ago)
 - [shawwwn/Gole](https://github.com/shawwwn/Gole) - A p2p hole punching/tunneling tool written in Go. (1 week ago)
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS (2 weeks ago)
