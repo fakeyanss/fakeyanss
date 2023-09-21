@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (today)
 - [LENSHOOD/go-lock-free-ring-buffer](https://github.com/LENSHOOD/go-lock-free-ring-buffer) - Lock-free ring buffer by golang (1 week ago)
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 (2 weeks ago)
 - [scalaenv/scalaenv](https://github.com/scalaenv/scalaenv) - Groom your app&#39;s Scala environment with scalaenv like rbenv :). Support offered for all official versions, including dotty and scala3! (2 weeks ago)
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (2 weeks ago)
-- [shawwwn/Gole](https://github.com/shawwwn/Gole) - A p2p hole punching/tunneling tool written in Go. (3 weeks ago)
