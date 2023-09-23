@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql  (today)
-- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (1 day ago)
+- [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql  (1 day ago)
+- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (2 days ago)
 - [LENSHOOD/go-lock-free-ring-buffer](https://github.com/LENSHOOD/go-lock-free-ring-buffer) - Lock-free ring buffer by golang (1 week ago)
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 (2 weeks ago)
 - [scalaenv/scalaenv](https://github.com/scalaenv/scalaenv) - Groom your app&#39;s Scala environment with scalaenv like rbenv :). Support offered for all official versions, including dotty and scala3! (3 weeks ago)
