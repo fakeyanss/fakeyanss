@@ -22,19 +22,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (today)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (3 weeks ago)
 - [fakeyanss/simple-raft-go](https://github.com/fakeyanss/simple-raft-go) - Golang implementation of the Raft consensus protocol (2 months ago)
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator. (2 months ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (2 months ago)
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more.
 - [fakeyanss/simple-raft-go](https://github.com/fakeyanss/simple-raft-go) - Golang implementation of the Raft consensus protocol
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator.
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start.
 - [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) - Elasticsearch基于BOS的快照与恢复
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本
 
 #### 🔭 Latest releases I've contributed to
 
