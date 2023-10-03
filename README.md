@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (1 week ago)
+- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (1 week ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 month ago)
 - [fakeyanss/simple-raft-go](https://github.com/fakeyanss/simple-raft-go) - Golang implementation of the Raft consensus protocol (2 months ago)
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator. (2 months ago)
@@ -30,7 +30,7 @@
 
 #### 🌱 My latest projects
 
-- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more.
+- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more.
 - [fakeyanss/simple-raft-go](https://github.com/fakeyanss/simple-raft-go) - Golang implementation of the Raft consensus protocol
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator.
 - [fakeyanss/nvim-conf](https://github.com/fakeyanss/nvim-conf) - Neovim configuration, pure lua config, and fast to start.
@@ -57,6 +57,6 @@
 
 - [Shubhamrawat5/apple-playlist-downloader](https://github.com/Shubhamrawat5/apple-playlist-downloader) - apple music playlist downloader (mp3) in node js (1 day ago)
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (6 days ago)
-- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (1 week ago)
+- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (1 week ago)
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql  (1 week ago)
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (1 week ago)
