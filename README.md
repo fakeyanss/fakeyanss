@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (4 days ago)
+- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (5 days ago)
 - [Shubhamrawat5/apple-playlist-downloader](https://github.com/Shubhamrawat5/apple-playlist-downloader) - apple music playlist downloader (mp3) in node js (1 week ago)
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 weeks ago)
-- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (2 weeks ago)
+- [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (3 weeks ago)
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql  (3 weeks ago)
