@@ -23,7 +23,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (1 month ago)
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 month ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (2 months ago)
 - [fakeyanss/simple-raft-go](https://github.com/fakeyanss/simple-raft-go) - Golang implementation of the Raft consensus protocol (3 months ago)
 - [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator. (3 months ago)
 - [fakeyanss/imgplace](https://github.com/fakeyanss/imgplace) -  (4 months ago)
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 day ago)
-- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts. (3 days ago)
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (2 days ago)
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts. (4 days ago)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (1 week ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (1 week ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (2 weeks ago)
