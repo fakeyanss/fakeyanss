@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 8 months ago) - Elasticsearch基于BOS的快照与恢复
+- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 9 months ago) - Elasticsearch基于BOS的快照与恢复
 
 #### 🔨 My recent Pull Requests
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (4 days ago)
+- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (5 days ago)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 week ago)
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts. (1 week ago)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (2 weeks ago)
