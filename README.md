@@ -57,6 +57,6 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (2 weeks ago)
 - [hujingnb/kindle_book](https://github.com/hujingnb/kindle_book) - 看书 (2 weeks ago)
-- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (2 weeks ago)
+- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (3 weeks ago)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (3 weeks ago)
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts. (4 weeks ago)
