@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (today)
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq (today)
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go (1 day ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (2 weeks ago)
 - [hujingnb/kindle_book](https://github.com/hujingnb/kindle_book) - 看书 (2 weeks ago)
-- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (3 weeks ago)
