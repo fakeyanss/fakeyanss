@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (today)
+- [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (today)
 - [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (2 days ago)
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq (2 days ago)
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go (3 days ago)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (2 weeks ago)
-- [hujingnb/kindle_book](https://github.com/hujingnb/kindle_book) - 看书 (2 weeks ago)
