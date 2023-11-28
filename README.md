@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [lxzan/memorycache](https://github.com/lxzan/memorycache) - minimalist in-memory kv storage, powered by hashmap and minimal quad heap. (today)
+- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (today)
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (3 days ago)
 - [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (3 days ago)
 - [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (5 days ago)
-- [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq (5 days ago)
-- [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go (6 days ago)
