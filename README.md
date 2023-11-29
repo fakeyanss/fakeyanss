@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [lxzan/memorycache](https://github.com/lxzan/memorycache) - minimalist in-memory kv storage, powered by hashmap and minimal quad heap. (today)
-- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (today)
-- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (3 days ago)
-- [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (3 days ago)
-- [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (5 days ago)
+- [lxzan/memorycache](https://github.com/lxzan/memorycache) - minimalist in-memory kv storage, powered by hashmap and minimal quad heap. (1 day ago)
+- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (1 day ago)
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (4 days ago)
+- [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (4 days ago)
+- [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (6 days ago)
