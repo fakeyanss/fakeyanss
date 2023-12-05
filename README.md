@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 9 months ago) - Elasticsearch基于BOS的快照与恢复
+- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 10 months ago) - Elasticsearch基于BOS的快照与恢复
 
 #### 🔨 My recent Pull Requests
 
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [lxzan/memorycache](https://github.com/lxzan/memorycache) - minimalist in-memory kv storage, powered by hashmap and minimal quad heap. (6 days ago)
-- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (6 days ago)
+- [lxzan/memorycache](https://github.com/lxzan/memorycache) - minimalist in-memory kv storage, powered by hashmap and minimal quad heap. (1 week ago)
+- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (1 week ago)
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (1 week ago)
 - [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (1 week ago)
 - [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (1 week ago)
