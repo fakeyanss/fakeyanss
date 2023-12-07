@@ -59,4 +59,4 @@
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (1 week ago)
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (1 week ago)
 - [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (1 week ago)
-- [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (1 week ago)
+- [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (2 weeks ago)
