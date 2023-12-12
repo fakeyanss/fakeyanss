@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (today)
 - [lxzan/memorycache](https://github.com/lxzan/memorycache) - minimalist in-memory kv storage, powered by hashmap and minimal quad heap. (2 weeks ago)
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇 (2 weeks ago)
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac (2 weeks ago)
 - [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool (2 weeks ago)
-- [digitalocean/openapi](https://github.com/digitalocean/openapi) - The OpenAPI v3 specification for DigitalOcean&#39;s public API. (2 weeks ago)
