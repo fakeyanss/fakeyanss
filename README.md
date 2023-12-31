@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (1 day ago)
+- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (2 days ago)
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 week ago)
 - [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀 (2 weeks ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (2 weeks ago)
