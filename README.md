@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 day ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (2 days ago)
 - [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (3 months ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (4 months ago)
 - [fakeyanss/graft](https://github.com/fakeyanss/graft) - Golang implementation of the Raft consensus protocol (5 months ago)
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 day ago)
-- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (6 days ago)
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (1 week ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
+- [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (1 week ago)
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (2 weeks ago)
 - [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀 (3 weeks ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (3 weeks ago)
