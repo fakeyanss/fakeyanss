@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server (today)
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python (3 days ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe) (1 week ago)
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (2 weeks ago)
-- [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀 (4 weeks ago)
