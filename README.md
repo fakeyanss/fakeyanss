@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript (today)
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 (1 day ago)
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (1 day ago)
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard. (4 days ago)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (4 days ago)
-- [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server (1 week ago)
