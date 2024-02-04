@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (4 weeks ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 month ago)
 - [fakeyanss/usg-go](https://github.com/fakeyanss/usg-go) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (4 months ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (5 months ago)
 - [fakeyanss/graft](https://github.com/fakeyanss/graft) - Golang implementation of the Raft consensus protocol (6 months ago)
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom. (3 days ago)
-- [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 (5 days ago)
+- [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom. (4 days ago)
+- [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 (6 days ago)
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files. (1 week ago)
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript (2 weeks ago)
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 (2 weeks ago)
