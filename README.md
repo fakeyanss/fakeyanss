@@ -47,7 +47,7 @@
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (10 months ago)
 - [[feat] support 8103](https://github.com/fakeyanss/jt808-server-go/pull/10) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (10 months ago)
 - [Feat/device args](https://github.com/fakeyanss/jt808-server-go/pull/8) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (10 months ago)
-- [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (10 months ago)
+- [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (11 months ago)
 - [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (11 months ago)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (11 months ago)
 - [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (11 months ago)
@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph. (today)
-- [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free &amp; Unlimited Image Hosting (today)
-- [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom. (6 days ago)
+- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph. (1 day ago)
+- [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free &amp; Unlimited Image Hosting (1 day ago)
+- [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom. (1 week ago)
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 (1 week ago)
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files. (1 week ago)
