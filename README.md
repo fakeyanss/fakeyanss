@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [divyam234/teldrive](https://github.com/divyam234/teldrive) -  Telegram Drive Storage (1 day ago)
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph. (2 days ago)
-- [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free &amp; Unlimited Image Hosting (2 days ago)
-- [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom. (1 week ago)
-- [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。 (1 week ago)
+- [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (today)
+- [JimLiu/api](https://github.com/JimLiu/api) -  (today)
+- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (today)
+- [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS. (today)
+- [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型 (today)
