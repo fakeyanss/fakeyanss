@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (today)
 - [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (1 day ago)
 - [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) -  (1 day ago)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 day ago)
 - [Lakr233/FixTim](https://github.com/Lakr233/FixTim) - Fix every runtime bug on macOS. (1 day ago)
-- [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型 (1 day ago)
