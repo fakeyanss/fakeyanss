@@ -38,7 +38,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/elasticsearch-repository-bos](https://github.com/fakeyanss/elasticsearch-repository-bos) ([7.6.2](https://github.com/fakeyanss/elasticsearch-repository-bos/releases/tag/7.6.2), 1 year ago) - Elasticsearch基于BOS的快照与恢复
 
 #### 🔨 My recent Pull Requests
 
