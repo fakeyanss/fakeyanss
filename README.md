@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (5 days ago)
+- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (6 days ago)
 - [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (8 months ago)
 - [Update README.md](https://github.com/fakeyanss/jt808-server-go/pull/14) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (9 months ago)
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (10 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (1 day ago)
-- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (3 days ago)
-- [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (4 days ago)
-- [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) -  (4 days ago)
-- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (4 days ago)
+- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (2 days ago)
+- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (4 days ago)
+- [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (5 days ago)
+- [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) -  (5 days ago)
+- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (5 days ago)
