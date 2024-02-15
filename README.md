@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (3 days ago)
-- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (5 days ago)
-- [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (6 days ago)
-- [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) -  (6 days ago)
-- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (6 days ago)
+- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (4 days ago)
+- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (6 days ago)
+- [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (1 week ago)
+- [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) -  (1 week ago)
+- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 week ago)
