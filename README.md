@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (today)
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (today)
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (today)
 - [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (4 days ago)
 - [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (6 days ago)
-- [byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder) - Resume template for Coder 适合程序员的简历模板 🎉 (1 week ago)
-- [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) -  (1 week ago)
-- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用 (1 week ago)
