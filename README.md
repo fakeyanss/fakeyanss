@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (today)
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (today)
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (today)
-- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (4 days ago)
-- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (6 days ago)
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 day ago)
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (1 day ago)
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 day ago)
+- [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！ (5 days ago)
+- [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (1 week ago)
