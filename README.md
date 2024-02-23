@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (today)
 - [b-yp/logseq-pangu](https://github.com/b-yp/logseq-pangu) - Logseq 的「盘古之白」插件 (2 days ago)
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower. (3 days ago)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 week ago)
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub (1 week ago)
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 week ago)
