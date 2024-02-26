@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (6 days ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 week ago)
 - [fakeyanss/luxi](https://github.com/fakeyanss/luxi) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (5 months ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (6 months ago)
 - [fakeyanss/graft](https://github.com/fakeyanss/graft) - Golang implementation of the Raft consensus protocol (7 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - PGlite - Postgres in WASM (1 day ago)
-- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (2 days ago)
-- [b-yp/logseq-pangu](https://github.com/b-yp/logseq-pangu) - Logseq 的「盘古之白」插件 (4 days ago)
-- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower. (5 days ago)
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 week ago)
+- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (today)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (2 days ago)
+- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (3 days ago)
+- [b-yp/logseq-pangu](https://github.com/b-yp/logseq-pangu) - Logseq 的「盘古之白」插件 (5 days ago)
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower. (6 days ago)
