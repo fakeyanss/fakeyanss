@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (2 weeks ago)
+- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (3 weeks ago)
 - [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (9 months ago)
 - [Update README.md](https://github.com/fakeyanss/jt808-server-go/pull/14) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (9 months ago)
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (11 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (1 day ago)
-- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (1 day ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (3 days ago)
-- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (4 days ago)
-- [b-yp/logseq-pangu](https://github.com/b-yp/logseq-pangu) - Logseq 的「盘古之白」插件 (6 days ago)
+- [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (2 days ago)
+- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (2 days ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (4 days ago)
+- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (5 days ago)
+- [b-yp/logseq-pangu](https://github.com/b-yp/logseq-pangu) - Logseq 的「盘古之白」插件 (1 week ago)
