@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (2 days ago)
-- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (2 days ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (4 days ago)
-- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (5 days ago)
+- [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (3 days ago)
+- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (3 days ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (5 days ago)
+- [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI &amp; Semoasa definitions to (re)Slate compatible markdown (6 days ago)
 - [b-yp/logseq-pangu](https://github.com/b-yp/logseq-pangu) - Logseq 的「盘古之白」插件 (1 week ago)
