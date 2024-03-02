@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目 (today)
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (1 day ago)
 - [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations. (1 day ago)
 - [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (5 days ago)
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (5 days ago)
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno (1 week ago)
