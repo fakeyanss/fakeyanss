@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目 (today)
-- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (1 day ago)
-- [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations. (1 day ago)
-- [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (5 days ago)
-- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (5 days ago)
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目 (1 day ago)
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (2 days ago)
+- [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations. (2 days ago)
+- [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (6 days ago)
+- [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab (6 days ago)
