@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. (today)
-- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目 (2 days ago)
-- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (3 days ago)
-- [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations. (3 days ago)
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. (1 day ago)
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目 (3 days ago)
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (4 days ago)
+- [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations. (4 days ago)
 - [georgeguimaraes/logseq-plugin-add-PARA-properties](https://github.com/georgeguimaraes/logseq-plugin-add-PARA-properties) - Easily add PARA into your Logseq workflow (1 week ago)
