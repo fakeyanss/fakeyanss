@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (6 days ago)
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (1 week ago)
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 (1 week ago)
 - [edgetunnel/edgetunnel](https://github.com/edgetunnel/edgetunnel) - Running V2ray inside edge/serverless runtime (2 weeks ago)
 - [yllhwa/FileWorker](https://github.com/yllhwa/FileWorker) - 运行在Cloudflare Worker上的在线剪贴板/文件共享 (2 weeks ago)
