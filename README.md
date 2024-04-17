@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (4 days ago)
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (5 days ago)
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (2 weeks ago)
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 (2 weeks ago)
 - [edgetunnel/edgetunnel](https://github.com/edgetunnel/edgetunnel) - Running V2ray inside edge/serverless runtime (3 weeks ago)
