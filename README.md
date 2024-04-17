@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (today)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (1 month ago)
 - [fakeyanss/luxi](https://github.com/fakeyanss/luxi) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (6 months ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (7 months ago)
 - [fakeyanss/graft](https://github.com/fakeyanss/graft) - Golang implementation of the Raft consensus protocol (9 months ago)
-- [fakeyanss/flink-k8s-studio](https://github.com/fakeyanss/flink-k8s-studio) - Platform for submitting, scheduling, and managing Flink jobs. Integration with Apache/Flink-Kubernetes-Operator. (9 months ago)
 
 #### 🌱 My latest projects
 
