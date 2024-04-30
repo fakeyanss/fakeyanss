@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [binance/binance-connector-php](https://github.com/binance/binance-connector-php) - This is a thin library that working as a connector to the Binance public API. (3 days ago)
-- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later. (3 days ago)
+- [binance/binance-connector-php](https://github.com/binance/binance-connector-php) - This is a thin library that working as a connector to the Binance public API. (4 days ago)
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later. (4 days ago)
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (2 weeks ago)
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (3 weeks ago)
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (4 weeks ago)
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 (4 weeks ago)
