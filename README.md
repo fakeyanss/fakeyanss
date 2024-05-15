@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (today)
+- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (today)
 - [binance/binance-connector-php](https://github.com/binance/binance-connector-php) - This is a thin library that working as a connector to the Binance public API. (2 weeks ago)
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later. (2 weeks ago)
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (1 month ago)
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (1 month ago)
-- [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 (1 month ago)
