@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (today)
-- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (today)
+- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (1 day ago)
+- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (1 day ago)
 - [binance/binance-connector-php](https://github.com/binance/binance-connector-php) - This is a thin library that working as a connector to the Binance public API. (2 weeks ago)
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later. (2 weeks ago)
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do! (1 month ago)
