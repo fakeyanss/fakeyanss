@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (4 weeks ago)
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 month ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (2 months ago)
 - [fakeyanss/luxi](https://github.com/fakeyanss/luxi) - [WIP] A universal storage gateway supports storage access using the AWS S3 protocol, with alternative underlying storage options including local file systems, NFS, object storage, WebDAV, and more. (7 months ago)
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (8 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀 (today)
-- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (1 day ago)
-- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (1 day ago)
-- [binance/binance-connector-php](https://github.com/binance/binance-connector-php) - This is a thin library that working as a connector to the Binance public API. (2 weeks ago)
-- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later. (2 weeks ago)
+- [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀 (1 day ago)
+- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (2 days ago)
+- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (2 days ago)
+- [binance/binance-connector-php](https://github.com/binance/binance-connector-php) - This is a thin library that working as a connector to the Binance public API. (3 weeks ago)
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later. (3 weeks ago)
