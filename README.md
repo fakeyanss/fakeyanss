@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书 (1 day ago)
-- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说） (4 days ago)
-- [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀 (5 days ago)
-- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (6 days ago)
-- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (6 days ago)
+- [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书 (2 days ago)
+- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说） (5 days ago)
+- [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀 (6 days ago)
+- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (1 week ago)
+- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software (1 week ago)
