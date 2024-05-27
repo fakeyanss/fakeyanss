@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP&#43;，自动获取流量。This project enables you to use Cloudflare WARP&#43; through subscription, automatically acquiring traffic. (today)
+- [yuchanns/warpflare](https://github.com/yuchanns/warpflare) - Keep your WARP&#43; traffic topped up with Cloudflare Workers. (today)
 - [baidubce/app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用 (3 days ago)
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书 (1 week ago)
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说） (1 week ago)
-- [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀 (1 week ago)
-- [laishulu/macism](https://github.com/laishulu/macism) - Command line MacOS Input Source Manager (1 week ago)
