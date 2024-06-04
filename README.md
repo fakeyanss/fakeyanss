@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue. (6 days ago)
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue. (1 week ago)
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP&#43;，自动获取流量。This project enables you to use Cloudflare WARP&#43; through subscription, automatically acquiring traffic. (1 week ago)
 - [yuchanns/warpflare](https://github.com/yuchanns/warpflare) - Keep your WARP&#43; traffic topped up with Cloudflare Workers. (1 week ago)
 - [baidubce/app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用 (1 week ago)
