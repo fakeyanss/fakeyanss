@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (4 months ago)
+- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (5 months ago)
 - [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
 - [Update README.md](https://github.com/fakeyanss/jt808-server-go/pull/14) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (2 weeks ago)
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (3 weeks ago)
 - [d2-projects/folder-explorer](https://github.com/d2-projects/folder-explorer) - 分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存 (1 month ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 month ago)
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (1 month ago)
