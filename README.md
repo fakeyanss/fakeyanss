@@ -49,7 +49,7 @@
 - [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
 - [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
 - [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
-- [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 year ago)
+- [Feat/more msg support](https://github.com/fakeyanss/jt808-server-go/pull/2) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 years ago)
 
 #### ⭐ Recent Stars
 
