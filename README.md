@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
+- [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。 (today)
+- [god-jason/iot-master](https://github.com/god-jason/iot-master) - 物联大师是开源免费的边缘计算网关，集成了标准Modbus、电力、水文和主流PLC等多种协议，支持主流的物联网云平台，适用于大部分物联网和工业互联网应用场景。 (today)
+- [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (today)
 - [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.  (3 days ago)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (1 week ago)
-- [labuladong/pulsar-game](https://github.com/labuladong/pulsar-game) -  (1 week ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
-- [BewareMyPower/ShadePluginDemo](https://github.com/BewareMyPower/ShadePluginDemo) - An example to use maven-shade-plugin. (3 months ago)
