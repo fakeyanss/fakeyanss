@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader) - Extract music from YouTube videos (2 days ago)
-- [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary) -  (1 week ago)
+- [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader) - Extract music from YouTube videos (3 days ago)
+- [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary) -  (2 weeks ago)
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。 (2 weeks ago)
 - [god-jason/iot-master](https://github.com/god-jason/iot-master) - 物联大师是开源免费的边缘计算网关，集成了标准Modbus、电力、水文和主流PLC等多种协议，支持主流的物联网云平台，适用于大部分物联网和工业互联网应用场景。 (2 weeks ago)
 - [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (2 weeks ago)
