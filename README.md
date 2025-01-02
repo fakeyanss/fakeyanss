@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (3 months ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (4 months ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (8 months ago)
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (10 months ago)
+- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (11 months ago)
 - [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 years ago)
 - [Update README.md](https://github.com/fakeyanss/jt808-server-go/pull/14) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 years ago)
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 years ago)
