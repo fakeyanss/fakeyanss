@@ -23,7 +23,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (9 months ago)
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (10 months ago)
 
 #### 🌱 My latest projects
 
