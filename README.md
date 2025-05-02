@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (7 months ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 这是一个用于隐藏JavaGuide的侧边栏及顶部导航栏的油猴脚本。从现在开始，放心大胆地用工作时间准备跳槽吧！（doge (1 day ago)
-- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (4 days ago)
+- [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 这是一个用于隐藏JavaGuide的侧边栏及顶部导航栏的油猴脚本。从现在开始，放心大胆地用工作时间准备跳槽吧！（doge (2 days ago)
+- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (5 days ago)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (1 week ago)
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models (2 months ago)
 - [MhdiTaheri/V2rayCollector](https://github.com/MhdiTaheri/V2rayCollector) - This script is designed to retrieve configuration details for various VPN protocols (VLESS, VMess, Shadowsocks, and Trojan) from a list of Telegram channel URLs provided within the script. It uses cURL to fetch content and regular expressions to extract the configurations. (2 months ago)
