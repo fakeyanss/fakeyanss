@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (1 week ago)
+- [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (2 weeks ago)
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (2 weeks ago)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (3 weeks ago)
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models (2 months ago)
