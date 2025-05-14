@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (today)
 - [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (2 weeks ago)
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (2 weeks ago)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (3 weeks ago)
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models (2 months ago)
-- [MhdiTaheri/V2rayCollector](https://github.com/MhdiTaheri/V2rayCollector) - This script is designed to retrieve configuration details for various VPN protocols (VLESS, VMess, Shadowsocks, and Trojan) from a list of Telegram channel URLs provided within the script. It uses cURL to fetch content and regular expressions to extract the configurations. (2 months ago)
