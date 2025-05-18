@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (3 days ago)
+- [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (4 days ago)
 - [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (2 weeks ago)
-- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (2 weeks ago)
+- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (3 weeks ago)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (3 weeks ago)
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models (2 months ago)
