@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (1 day ago)
+- [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (2 days ago)
 - [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (1 month ago)
 - [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (1 month ago)
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (1 month ago)
