@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (today)
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios. (today)
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (1 month ago)
 - [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (3 months ago)
 - [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (3 months ago)
-- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go (3 months ago)
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (4 months ago)
