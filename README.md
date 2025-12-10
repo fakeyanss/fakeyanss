@@ -3,7 +3,7 @@
 ### About me
 
 - Education: Software engineering graduate from [HUST](https://www.hust.edu.cn/)
-- Work: Currently working at [Baidu](https://cloud.baidu.com/) as a backend developer
+- Work: Work: Currently seeking backend development roles
 - Fun fact: Yet another prosibility
 - Website: [foreti.me](https://foreti.me)
 - Resume: [WIP](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
