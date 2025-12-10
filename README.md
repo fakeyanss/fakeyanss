@@ -3,10 +3,10 @@
 ### About me
 
 - Education: Software engineering graduate from [HUST](https://www.hust.edu.cn/)
-- Work: Work: Currently seeking backend development roles
+- Work: Currently seeking backend development roles
 - Fun fact: Yet another prosibility
 - Website: [foreti.me](https://foreti.me)
-- Resume: [WIP](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
+- Resume: [我的简历](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
 - Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
 
 
@@ -53,5 +53,5 @@
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (3 months ago)
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios. (3 months ago)
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (5 months ago)
-- [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (6 months ago)
+- [cloudwu/pathfinding](https://github.com/cloudwu/pathfinding) - A simple pathfinding module based on the A-star algorithm (7 months ago)
 - [NikoAoi/SilentlyJavaGuide](https://github.com/NikoAoi/SilentlyJavaGuide) - 静悄悄JavaGuide，悄悄地进村，打枪的不要 (7 months ago)
