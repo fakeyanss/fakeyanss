@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [GOgo8Go/iptv-all](https://github.com/GOgo8Go/iptv-all) - Collection of publicly available IPTV channels from all over the world (today)
+- [GOgo8Go/iptv-all](https://github.com/GOgo8Go/iptv-all) - Collection of publicly available IPTV channels from all over the world (1 day ago)
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (3 months ago)
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios. (3 months ago)
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (5 months ago)
