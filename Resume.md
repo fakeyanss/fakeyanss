@@ -1,6 +1,6 @@
 <center><h2 style="border-bottom: none;">桂晨</h2></center>
 
-男 • 1995 年 • 6 年工作经验 • 13016485876 • 908156602@qq.com • https://github.com/fakeyanss
+男 • 1995 年 • 6 年工作经验 • 908156602@qq.com • https://github.com/fakeyanss
 
 <p style="font-size: 20px; border-bottom: 1px solid #dbdbdb;"><b>工作经历</b></p>
 
