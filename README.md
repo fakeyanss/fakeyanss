@@ -53,6 +53,6 @@
 
 - [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6 (1 month ago)
 - [EulbThgink/Icenberg](https://github.com/EulbThgink/Icenberg) - Icenberg is an open-source shell tool with real-time, context-aware LLM assistance. It understands your terminal output, helps troubleshoot issues, and lets you ask questions directly from shell sessions. (1 month ago)
-- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer &amp; Activited Microsoft Office For MacOS (1 month ago)
+- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS (1 month ago)
 - [GOgo8Go/iptv-all](https://github.com/GOgo8Go/iptv-all) - Collection of publicly available IPTV channels from all over the world (1 month ago)
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (5 months ago)
