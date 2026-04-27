@@ -52,7 +52,7 @@
 #### ⭐ Recent Stars
 
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (1 month ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory. (1 month ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory. (1 month ago)
 - [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6 (4 months ago)
 - [EulbThgink/Icenberg](https://github.com/EulbThgink/Icenberg) - Icenberg is an open-source shell tool with real-time, context-aware LLM assistance. It understands your terminal output, helps troubleshoot issues, and lets you ask questions directly from shell sessions. (4 months ago)
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS (4 months ago)
