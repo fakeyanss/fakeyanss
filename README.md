@@ -23,7 +23,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (4 months ago)
-- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (5 months ago)
+- [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -52,7 +52,7 @@
 #### ⭐ Recent Stars
 
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (2 months ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 months ago)
-- [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6 (5 months ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 months ago)
+- [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6 (6 months ago)
 - [EulbThgink/Icenberg](https://github.com/EulbThgink/Icenberg) - Icenberg is an open-source shell tool with real-time, context-aware LLM assistance. It understands your terminal output, helps troubleshoot issues, and lets you ask questions directly from shell sessions. (6 months ago)
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS (6 months ago)
