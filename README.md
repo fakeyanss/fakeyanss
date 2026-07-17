@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (5 months ago)
+- [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (6 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (7 months ago)
 
 #### 🌱 My latest projects
