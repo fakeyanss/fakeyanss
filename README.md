@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (4 days ago)
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (5 days ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (9 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (10 months ago)
 
@@ -52,8 +52,8 @@
 
 #### ⭐ Recent Stars
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (4 days ago)
-- [Frank-Coding97/uvp-gb28181-sim](https://github.com/Frank-Coding97/uvp-gb28181-sim) - 开源的国标28181手机模拟器，可以模拟一个国标设备让你快速进行测试 (4 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (5 days ago)
+- [Frank-Coding97/uvp-gb28181-sim](https://github.com/Frank-Coding97/uvp-gb28181-sim) - 开源的国标28181手机模拟器，可以模拟一个国标设备让你快速进行测试 (5 days ago)
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (7 months ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (7 months ago)
 - [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6 (10 months ago)
