@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (1 day ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 week ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (9 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (10 months ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(storage): 多后端持久化、运行时分层与独立迁移工具](https://github.com/fakeyanss/jt808-server-go/pull/29) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat: JT808 P0/P1 protocol stack - region/route, media, recorder, retransmission &#43; E2E tests](https://github.com/fakeyanss/jt808-server-go/pull/28) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (2 years ago)
 - [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
@@ -49,7 +50,6 @@
 - [Feat/device args](https://github.com/fakeyanss/jt808-server-go/pull/8) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 - [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 - [Feat/client simulator](https://github.com/fakeyanss/jt808-server-go/pull/6) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
-- [[doc] update readme](https://github.com/fakeyanss/jt808-server-go/pull/4) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 
 #### ⭐ Recent Stars
 
