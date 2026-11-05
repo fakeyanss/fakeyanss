@@ -53,8 +53,8 @@
 
 #### ⭐ Recent Stars
 
+- [AresCNZJ/DpadTV](https://github.com/AresCNZJ/DpadTV) - LibreTV 的 Android TV 原生客户端，不依赖 WebView (today)
 - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式 (2 days ago)
 - [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 (5 days ago)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 - [Frank-Coding97/uvp-gb28181-sim](https://github.com/Frank-Coding97/uvp-gb28181-sim) - 开源的国标28181手机模拟器，可以模拟一个国标设备让你快速进行测试 (1 week ago)
-- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (7 months ago)
