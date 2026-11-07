@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (3 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (4 days ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 week ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (9 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (10 months ago)
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(storage): P2 持久化补齐（终端配置/区域路线/定位/报警）与文档路线图](https://github.com/fakeyanss/jt808-server-go/pull/30) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 days ago)
-- [feat(storage): 多后端持久化、运行时分层与独立迁移工具](https://github.com/fakeyanss/jt808-server-go/pull/29) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 days ago)
-- [feat: JT808 P0/P1 protocol stack - region/route, media, recorder, retransmission &#43; E2E tests](https://github.com/fakeyanss/jt808-server-go/pull/28) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (6 days ago)
+- [feat(storage): P2 持久化补齐（终端配置/区域路线/定位/报警）与文档路线图](https://github.com/fakeyanss/jt808-server-go/pull/30) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
+- [feat(storage): 多后端持久化、运行时分层与独立迁移工具](https://github.com/fakeyanss/jt808-server-go/pull/29) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (6 days ago)
+- [feat: JT808 P0/P1 protocol stack - region/route, media, recorder, retransmission &#43; E2E tests](https://github.com/fakeyanss/jt808-server-go/pull/28) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (2 years ago)
 - [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 - [Update README.md](https://github.com/fakeyanss/jt808-server-go/pull/14) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
@@ -53,8 +53,8 @@
 
 #### ⭐ Recent Stars
 
-- [AresCNZJ/DpadTV](https://github.com/AresCNZJ/DpadTV) - LibreTV 的 Android TV 原生客户端，不依赖 WebView (1 day ago)
-- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式 (3 days ago)
-- [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 (6 days ago)
+- [AresCNZJ/DpadTV](https://github.com/AresCNZJ/DpadTV) - LibreTV 的 Android TV 原生客户端，不依赖 WebView (2 days ago)
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式 (4 days ago)
+- [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 (1 week ago)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 - [Frank-Coding97/uvp-gb28181-sim](https://github.com/Frank-Coding97/uvp-gb28181-sim) - 开源的国标28181手机模拟器，可以模拟一个国标设备让你快速进行测试 (1 week ago)
