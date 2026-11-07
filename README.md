@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (4 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078（部标）协议接入服务端，兼容2011/2013/2019多版本 (today)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 week ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (9 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (10 months ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(p0): 会话顶替、应答精确配对与 0x0200 附加信息类型化](https://github.com/fakeyanss/jt808-server-go/pull/31) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat(storage): P2 持久化补齐（终端配置/区域路线/定位/报警）与文档路线图](https://github.com/fakeyanss/jt808-server-go/pull/30) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
 - [feat(storage): 多后端持久化、运行时分层与独立迁移工具](https://github.com/fakeyanss/jt808-server-go/pull/29) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (6 days ago)
 - [feat: JT808 P0/P1 protocol stack - region/route, media, recorder, retransmission &#43; E2E tests](https://github.com/fakeyanss/jt808-server-go/pull/28) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
@@ -49,7 +50,6 @@
 - [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 - [[feat] support 8103](https://github.com/fakeyanss/jt808-server-go/pull/10) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 - [Feat/device args](https://github.com/fakeyanss/jt808-server-go/pull/8) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
-- [[chore] parse conf by viper and bindata.](https://github.com/fakeyanss/jt808-server-go/pull/7) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 
 #### ⭐ Recent Stars
 
