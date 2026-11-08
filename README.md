@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: rewrite README based on current capabilities](https://github.com/fakeyanss/jt808-server-go/pull/37) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [feat: productionize access, outbox reliability and operations](https://github.com/fakeyanss/jt808-server-go/pull/36) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [feat(protocol): uplink sink abstraction, ack semantics and command outbox](https://github.com/fakeyanss/jt808-server-go/pull/35) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [feat(adminapi): add admin management plane with auth, sessions and history](https://github.com/fakeyanss/jt808-server-go/pull/34) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat(media): 补全 JT1078 信令并接入最小 RTP/PS 视频落地](https://github.com/fakeyanss/jt808-server-go/pull/33) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat(subiao): 补齐苏标附件链路与上生产前五项补全](https://github.com/fakeyanss/jt808-server-go/pull/32) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat(p0): 会话顶替、应答精确配对与 0x0200 附加信息类型化](https://github.com/fakeyanss/jt808-server-go/pull/31) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [feat(storage): P2 持久化补齐（终端配置/区域路线/定位/报警）与文档路线图](https://github.com/fakeyanss/jt808-server-go/pull/30) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 days ago)
 - [feat(storage): 多后端持久化、运行时分层与独立迁移工具](https://github.com/fakeyanss/jt808-server-go/pull/29) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [feat: JT808 P0/P1 protocol stack - region/route, media, recorder, retransmission &#43; E2E tests](https://github.com/fakeyanss/jt808-server-go/pull/28) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
-- [feat: Add Sidebar Menu Toggle for Improved Readability on Small Screens](https://github.com/Redocly/redoc/pull/2487) on [Redocly/redoc](https://github.com/Redocly/redoc) (2 years ago)
-- [Feat/media](https://github.com/fakeyanss/jt808-server-go/pull/15) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
-- [Update README.md](https://github.com/fakeyanss/jt808-server-go/pull/14) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
-- [[bugfix] Encode msg header and 0x0100 correctly.](https://github.com/fakeyanss/jt808-server-go/pull/12) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (3 years ago)
 
 #### ⭐ Recent Stars
 
