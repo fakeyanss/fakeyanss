@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: 历史数据保留期清理](https://github.com/fakeyanss/jt808-server-go/pull/46) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [feat: type 0x8105 command parameters and persist 0x0802 search results](https://github.com/fakeyanss/jt808-server-go/pull/45) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [feat(protocol): structure base 0x0200 extension items](https://github.com/fakeyanss/jt808-server-go/pull/44) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [fix(protocol): align legacy region/route layouts with JT/T 808-2013](https://github.com/fakeyanss/jt808-server-go/pull/43) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat: 1078 media completion and JT/T 808-2019 wire format support](https://github.com/fakeyanss/jt808-server-go/pull/42) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [feat(media): 0x0801 落盘、0x0805 关联与 GMT&#43;8 时区统一](https://github.com/fakeyanss/jt808-server-go/pull/41) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [feat(upgrade): 0x8108 MakerID 版本分支与 0x0108 结果落库](https://github.com/fakeyanss/jt808-server-go/pull/40) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [docs: 按架构与部署形态重构 README](https://github.com/fakeyanss/jt808-server-go/pull/39) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [docs: 从处理器注册表生成覆盖矩阵并加一致性校验](https://github.com/fakeyanss/jt808-server-go/pull/38) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [docs: rewrite README based on current capabilities](https://github.com/fakeyanss/jt808-server-go/pull/37) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
-- [feat: productionize access, outbox reliability and operations](https://github.com/fakeyanss/jt808-server-go/pull/36) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
-- [feat(protocol): uplink sink abstraction, ack semantics and command outbox](https://github.com/fakeyanss/jt808-server-go/pull/35) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
-- [feat(adminapi): add admin management plane with auth, sessions and history](https://github.com/fakeyanss/jt808-server-go/pull/34) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
-- [feat(media): 补全 JT1078 信令并接入最小 RTP/PS 视频落地](https://github.com/fakeyanss/jt808-server-go/pull/33) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (2 days ago)
 
 #### ⭐ Recent Stars
 
