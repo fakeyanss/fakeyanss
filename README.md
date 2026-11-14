@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test(cluster): 集群模式终端级冒烟（含两个集群缺陷修复）](https://github.com/fakeyanss/jt808-server-go/pull/54) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [ci(release): 修复 Release 产物打包与重复触发](https://github.com/fakeyanss/jt808-server-go/pull/53) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat: 增加容器镜像构建与 Docker Hub 多架构发布](https://github.com/fakeyanss/jt808-server-go/pull/52) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [docs: 更新 README 贡献者与赞助展示](https://github.com/fakeyanss/jt808-server-go/pull/51) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [docs: 统一 architecture.md 的元数据层叫法](https://github.com/fakeyanss/jt808-server-go/pull/50) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
@@ -49,8 +51,6 @@
 - [feat: 集群模式落地（角色拆分、集群路由与数据面隔离）](https://github.com/fakeyanss/jt808-server-go/pull/47) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [feat: 历史数据保留期清理](https://github.com/fakeyanss/jt808-server-go/pull/46) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
 - [feat: type 0x8105 command parameters and persist 0x0802 search results](https://github.com/fakeyanss/jt808-server-go/pull/45) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
-- [feat(protocol): structure base 0x0200 extension items](https://github.com/fakeyanss/jt808-server-go/pull/44) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
-- [fix(protocol): align legacy region/route layouts with JT/T 808-2013](https://github.com/fakeyanss/jt808-server-go/pull/43) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
 
 #### ⭐ Recent Stars
 
