@@ -9,17 +9,6 @@
 - Resume: [我的简历](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
 - Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
 
-
-
-
-
-
-
-
-### Github stats
-
-![FakeYanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&show_icons=true&theme=transparent)
-
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。 (today)
