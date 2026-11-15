@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: 按包结构评审报告收敛协议、仓储、契约与 API 分层](https://github.com/fakeyanss/jt808-server-go/pull/61) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [build(docker): make GOPROXY a build arg defaulting to the official proxy](https://github.com/fakeyanss/jt808-server-go/pull/60) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [feat(action): emit control-side hooks with stable event ids](https://github.com/fakeyanss/jt808-server-go/pull/59) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [fix(config): reject uplink.sink=http in standalone mode](https://github.com/fakeyanss/jt808-server-go/pull/58) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
 - [refactor(build): 单机入口统一为 jt-server-standalone](https://github.com/fakeyanss/jt808-server-go/pull/57) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
@@ -49,8 +51,6 @@
 - [test(cluster): 集群模式终端级冒烟（含两个集群缺陷修复）](https://github.com/fakeyanss/jt808-server-go/pull/54) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [ci(release): 修复 Release 产物打包与重复触发](https://github.com/fakeyanss/jt808-server-go/pull/53) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 - [feat: 增加容器镜像构建与 Docker Hub 多架构发布](https://github.com/fakeyanss/jt808-server-go/pull/52) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
-- [docs: 更新 README 贡献者与赞助展示](https://github.com/fakeyanss/jt808-server-go/pull/51) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
-- [docs: 统一 architecture.md 的元数据层叫法](https://github.com/fakeyanss/jt808-server-go/pull/50) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 
 #### ⭐ Recent Stars
 
