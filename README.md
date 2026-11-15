@@ -9,10 +9,21 @@
 - Resume: [我的简历](https://github.com/fakeyanss/fakeYanss/blob/master/Resume.md)
 - Contact me: [Mail: yanshisangc@gmail.com] [Wechat: fakeyanss]
 
+
+
+
+
+
+
+
+### Github stats
+
+![FakeYanss's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeyanss&show_icons=true&theme=transparent)
+
 #### 👷 Check out what I'm currently working on
 
 - [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。 (today)
-- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (5 days ago)
+- [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (6 days ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (10 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (11 months ago)
 
@@ -26,25 +37,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) ([v1.0.0](https://github.com/fakeyanss/jt808-server-go/releases/tag/v1.0.0), today) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) ([v1.0.0](https://github.com/fakeyanss/jt808-server-go/releases/tag/v1.0.0), 1 day ago) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。
 
 #### 🔨 My recent Pull Requests
 
-- [test(cluster): 集群模式终端级冒烟（含两个集群缺陷修复）](https://github.com/fakeyanss/jt808-server-go/pull/54) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [ci(release): 修复 Release 产物打包与重复触发](https://github.com/fakeyanss/jt808-server-go/pull/53) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [feat: 增加容器镜像构建与 Docker Hub 多架构发布](https://github.com/fakeyanss/jt808-server-go/pull/52) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [docs: 更新 README 贡献者与赞助展示](https://github.com/fakeyanss/jt808-server-go/pull/51) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [docs: 统一 architecture.md 的元数据层叫法](https://github.com/fakeyanss/jt808-server-go/pull/50) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [docs: 统一 architecture.md 的元数据层叫法](https://github.com/fakeyanss/jt808-server-go/pull/49) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [docs: 开源标准化（社区文件、README 重写与文档重整）](https://github.com/fakeyanss/jt808-server-go/pull/48) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
-- [feat: 集群模式落地（角色拆分、集群路由与数据面隔离）](https://github.com/fakeyanss/jt808-server-go/pull/47) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
-- [feat: 历史数据保留期清理](https://github.com/fakeyanss/jt808-server-go/pull/46) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
-- [feat: type 0x8105 command parameters and persist 0x0802 search results](https://github.com/fakeyanss/jt808-server-go/pull/45) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (4 days ago)
+- [feat(action): emit control-side hooks with stable event ids](https://github.com/fakeyanss/jt808-server-go/pull/59) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [fix(config): reject uplink.sink=http in standalone mode](https://github.com/fakeyanss/jt808-server-go/pull/58) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [refactor(build): 单机入口统一为 jt-server-standalone](https://github.com/fakeyanss/jt808-server-go/pull/57) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [docs: 同步 README 与文档的 Mermaid 主题和集群多副本样式](https://github.com/fakeyanss/jt808-server-go/pull/56) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [refactor(build): 收敛 release 构建路径到单一入口清单](https://github.com/fakeyanss/jt808-server-go/pull/55) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (today)
+- [test(cluster): 集群模式终端级冒烟（含两个集群缺陷修复）](https://github.com/fakeyanss/jt808-server-go/pull/54) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
+- [ci(release): 修复 Release 产物打包与重复触发](https://github.com/fakeyanss/jt808-server-go/pull/53) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
+- [feat: 增加容器镜像构建与 Docker Hub 多架构发布](https://github.com/fakeyanss/jt808-server-go/pull/52) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
+- [docs: 更新 README 贡献者与赞助展示](https://github.com/fakeyanss/jt808-server-go/pull/51) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
+- [docs: 统一 architecture.md 的元数据层叫法](https://github.com/fakeyanss/jt808-server-go/pull/50) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents. (today)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (today)
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents. (1 day ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (1 day ago)
 - [AresCNZJ/DpadTV](https://github.com/AresCNZJ/DpadTV) - LibreTV 的 Android TV 原生客户端，不依赖 WebView (1 week ago)
 - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式 (1 week ago)
 - [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 (2 weeks ago)
