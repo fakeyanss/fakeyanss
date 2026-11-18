@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。 (2 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。 (today)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (1 week ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (10 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (11 months ago)
@@ -37,7 +37,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) ([v1.0.1](https://github.com/fakeyanss/jt808-server-go/releases/tag/v1.0.1), 2 days ago) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) ([v1.0.2](https://github.com/fakeyanss/jt808-server-go/releases/tag/v1.0.2), today) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。
 
 #### 🔨 My recent Pull Requests
 
