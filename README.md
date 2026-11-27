@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。 (5 days ago)
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。 (6 days ago)
 - [fakeyanss/blog](https://github.com/fakeyanss/blog) - blog (2 weeks ago)
 - [fakeyanss/leetcode-golang](https://github.com/fakeyanss/leetcode-golang) -  (10 months ago)
 - [fakeyanss/dotfiles](https://github.com/fakeyanss/dotfiles) - [refactoring] More than dotfiles. Manager your dotfiles and custom function. (11 months ago)
@@ -37,11 +37,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) ([v1.0.3](https://github.com/fakeyanss/jt808-server-go/releases/tag/v1.0.3), 5 days ago) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。
+- [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) ([v1.0.3](https://github.com/fakeyanss/jt808-server-go/releases/tag/v1.0.3), 6 days ago) - JT/T 808 / JT/T 1078 / 苏标主动安全的终端接入服务。一套协议内核，支持 Standalone 单进程与 Cluster 多角色部署。
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(auth): 鉴权码改为按手机号计算，删除 auth_code 并重组 deploy](https://github.com/fakeyanss/jt808-server-go/pull/63) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (5 days ago)
+- [refactor(auth): 鉴权码改为按手机号计算，删除 auth_code 并重组 deploy](https://github.com/fakeyanss/jt808-server-go/pull/63) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (6 days ago)
 - [feat(build): 新增模拟终端镜像并收敛构建入口](https://github.com/fakeyanss/jt808-server-go/pull/62) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [refactor: 按包结构评审报告收敛协议、仓储、契约与 API 分层](https://github.com/fakeyanss/jt808-server-go/pull/61) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
 - [build(docker): make GOPROXY a build arg defaulting to the official proxy](https://github.com/fakeyanss/jt808-server-go/pull/60) on [fakeyanss/jt808-server-go](https://github.com/fakeyanss/jt808-server-go) (1 week ago)
